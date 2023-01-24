@@ -1,0 +1,10 @@
+junction_aa	repertoire_id
+ASSLRWGDEQQ	repertoire_id
+SADRVGNTLY	repertoire_id
+ASSFGREQY	repertoire_id
+ASSQDQVQDTQY	repertoire_id
+ASSPGQGPYEQY	repertoire_id
+ATSSGTGAYEQY	repertoire_id
+ASEAGGSYEQY	repertoire_id
+ASGDRGADTQY	repertoire_id
+ASSQAGAYEQY	repertoire_id
