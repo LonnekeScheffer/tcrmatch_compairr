@@ -4,9 +4,9 @@ import pandas as pd
 
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    parser.add_argument("--iedb_file", default="data/IEDB_for_compairr.tsv")
-    parser.add_argument("--pairs_file", default="output/pairs.tsv")
-    parser.add_argument("--output_file", default="output/prefiltered_IEDB.tsv")
+    parser.add_argument("--iedb_file", default="../data/IEDB_for_compairr.tsv")
+    parser.add_argument("--pairs_file", default="../output/pairs.tsv")
+    parser.add_argument("--output_file", default="../output/prefiltered_IEDB2.tsv")
 
     parsed_args = parser.parse_args(args)
 
@@ -19,6 +19,7 @@ def add_cols(iedb_file, pairs_file, output_file):
 
     filtered = pd.read_csv(pairs_file, sep="\t", usecols=["sequence_id_1", "junction_aa_1"])
     filtered.rename(columns={"sequence_id_1": "sequence_id", "junction_aa_1": "trimmed_seq"}, inplace=True)
+    filtered.drop_duplicates(inplace=True)
 
     iedb_cols = ["trimmed_seq", "original_seq", "receptor_group", "epitopes", "source_organisms", "source_antigens"]
 
