@@ -1,22 +1,54 @@
 #!/bin/bash
 
-iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_for_compairr.tsv
+iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_data.tsv
+compairr_iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_for_compairr.tsv
 
-for repetition in 1 2 3
+infiles_folder=/storage/lonnekes/TCRMatch_CompAIRR/data/infiles
+output_folder=/storage/lonnekes/TCRMatch_CompAIRR/benchmarking
+
+compairr_path=/storage/lonnekes/TCRMatch_CompAIRR/compairr/src/compairr
+tcrmatch_path=/storage/lonnekes/TCRMatch_CompAIRR/TCRMatch-1.0.2/tcrmatch
+
+
+if [ -d $output_folder ]
+then
+    rm -r $output_folder
+fi
+
+mkdir $output_folder
+mkdir $output_folder/tcrmatch_outfiles
+mkdir $output_folder/tcrmatch_outfiles/compairr_tcrmatch
+mkdir $output_folder/tcrmatch_outfiles/tcrmatch
+mkdir $output_folder/time
+mkdir $output_folder/time/compairr_tcrmatch
+mkdir $output_folder/time/tcrmatch
+
+for repetition in 1 # 2 3
 do
-for n_seqs in 10 100 1000 10000
+for n_seqs in 10 # 100 1000 10000
 do
-infile=/storage/lonnekes/TCRMatch_CompAIRR/data/infiles/infile_$n_seqs\_seqs.txt
+infile=$infiles_folder/infile_$n_seqs\_seqs.txt
 for n_threads in 1 8
 do
+
+# TCRMatch benchmarking
+unique_name=r$repetition\_n$n_seqs\_t$n_threads
+echo $unique_name
+outfile=$output_folder/tcrmatch_outfiles/tcrmatch/$unique_name.txt
+time_folder=$output_folder/time/tcrmatch/$unique_name
+bash scripts/run_tcrmatch.sh $tcrmatch_path $iedb_input $infile $outfile $n_threads $time_folder
+
 for differences in 1 2
 do
+
+# TCRMatch + CompAIRR benchmarking
 unique_name=r$repetition\_n$n_seqs\_t$n_threads\_d$differences
 echo $unique_name
-outfile=/storage/lonnekes/TCRMatch_CompAIRR/tcrmatch_outfiles/compairr_tcrmatch/$unique_name.txt
-time_folder=/storage/lonnekes/TCRMatch_CompAIRR/time/compairr_tcrmatch/$unique_name
-bash scripts/run_compairr_tcrmatch.sh $iedb_input $infile $outfile $n_threads $time_folder $differences
+outfile=$output_folder/tcrmatch_outfiles/compairr_tcrmatch/$unique_name.txt
+time_folder=$output_folder/time/compairr_tcrmatch/$unique_name
+bash scripts/run_compairr_tcrmatch.sh $compairr_path $tcrmatch_path $compairr_iedb_input $infile $outfile $n_threads $time_folder $differences
 done
+
 done
 done
 done
