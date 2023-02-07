@@ -11,7 +11,6 @@ differences=$8
 
 tmp_folder=tmp
 
-infile_compairr=$tmp_folder/infile_compairr.tsv
 iedb_prefiltered=$tmp_folder/prefiltered_IEDB.tsv
 pairs_file=$tmp_folder/pairs.tsv
 compairr_log=$time_folder/compairr_log.txt
@@ -33,8 +32,7 @@ fi
 mkdir $tmp_folder
 mkdir $time_folder
 
-sed "s/$/\trepertoire_id/" $infile | sed '1,1s/cdr3_aa/junction_aa/' > $infile_compairr
-(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" $compairr_path $iedb_input $infile_compairr -m -d $differences --ignore-counts --ignore-genes -p $pairs_file -t $threads -l $compairr_log -o $compairr_out) 2> $time_folder/compairr_time.txt
+(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" $compairr_path $iedb_input $infile -m -d $differences --ignore-counts --ignore-genes --cdr3 -p $pairs_file -t $threads -l $compairr_log -o $compairr_out) 2> $time_folder/compairr_time.txt
 (/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" python scripts/add_lost_cols_to_compairr_output.py --iedb_file $iedb_input --pairs_file $pairs_file --output_file $iedb_prefiltered) 2> $time_folder/fileprocessing_time.txt
 
 # todo optional: splitting IEDB
