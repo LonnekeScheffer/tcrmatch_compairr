@@ -8,6 +8,7 @@ outfile=$5
 threads=$6
 time_folder=$7
 differences=$8
+indels=$9
 
 tmp_folder=tmp
 
@@ -32,7 +33,14 @@ fi
 mkdir $tmp_folder
 mkdir $time_folder
 
-(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" $compairr_path $iedb_input $infile -m -d $differences --ignore-counts --ignore-genes --cdr3 -p $pairs_file -t $threads -l $compairr_log -o $compairr_out) 2> $time_folder/compairr_time.txt
+
+if [ $indels = 1 ]; then
+   indels_arg='--indels'
+else
+   indels_arg=''
+fi
+
+(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" $compairr_path $iedb_input $infile -m -d $differences $indels_arg --ignore-counts --ignore-genes --cdr3 -p $pairs_file -t $threads -l $compairr_log -o $compairr_out) 2> $time_folder/compairr_time.txt
 (/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" python scripts/add_lost_cols_to_compairr_output.py --iedb_file $iedb_input --pairs_file $pairs_file --output_file $iedb_prefiltered) 2> $time_folder/fileprocessing_time.txt
 
 # todo optional: splitting IEDB

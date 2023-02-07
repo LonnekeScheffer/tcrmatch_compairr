@@ -60,6 +60,9 @@ def get_setting_cols(df):
     if "d" in df.columns:
         setting_cols.append("d")
 
+    if "i" in df.columns:
+        setting_cols.append("i")
+
     return setting_cols
 
 
@@ -112,8 +115,8 @@ def process_benchmark_folder(base_folder, keep=("elapsed", "maxrss")):
 
 def merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="elapsed"):
     comp_data = comp_data.copy()
-    comp_data["pipeline"] = comp_data["pipeline"] + "_d" + comp_data["d"]
-    comp_data = comp_data.drop(columns=["d"])
+    comp_data["pipeline"] = comp_data["pipeline"] + "_d" + comp_data["d"] + "_i" + comp_data["i"]
+    comp_data = comp_data.drop(columns=["d", "i"])
 
     merged_data = pd.concat([comp_data, tcrm_data])
 
@@ -137,8 +140,9 @@ def plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", time_type="secon
     format_time(df, time_type)
     add_error(df)
 
-    df["pipeline"] = df["pipeline"].replace({"compairr_tcrmatch_d1": "CompAIRR with d=1 + TCRMatch",
-                                             "compairr_tcrmatch_d2": "CompAIRR with d=2 + TCRMatch",
+    df["pipeline"] = df["pipeline"].replace({"compairr_tcrmatch_d1_i0": "CompAIRR with d=1, no indels + TCRMatch",
+                                             "compairr_tcrmatch_d1_i1": "CompAIRR with d=1, with indels + TCRMatch",
+                                             "compairr_tcrmatch_d2_i0": "CompAIRR with d=2, no indels + TCRMatch",
                                              "tcrmatch": "TCRMatch"})
 
     fig = px.line(df, x="n", y="result_valuemean", color="pipeline",
@@ -156,7 +160,7 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", time_type="second
     comp_data = comp_data[comp_data["t"] == t]
     comp_data = comp_data[comp_data["result_type"].isin(["compairr_elapsed", "tcrmatch_elapsed", "fileprocessing_elapsed"])]
 
-
+    comp_data["compairr_setting"] = "d=" + comp_data["d"] + ", i=" + comp_data["i"]
 
     comp_data["result_type"] = comp_data["result_type"].replace({"compairr_elapsed": "CompAIRR",
                                                                  "tcrmatch_elapsed": "TCRMatch",
@@ -165,7 +169,7 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", time_type="second
     add_error(comp_data)
 
     fig = px.bar(comp_data, x="n", y="result_valuemean", color="result_type",  barmode="stack",
-                  template="plotly_white", facet_col="d",
+                  template="plotly_white", facet_col="compairr_setting",
                   labels={"time_durationmean": f"time ({time_type})",
                           "n": "number of user-input CDR3s"})
 
@@ -181,6 +185,8 @@ def make_all_plots(args):
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", time_type="minutes")
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="8", time_type="minutes")
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
+
+    # todo figure for memory benchmark
 
 
 
