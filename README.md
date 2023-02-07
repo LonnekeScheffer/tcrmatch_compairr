@@ -4,7 +4,7 @@ A pipeline using CompAIRR as pre-filter for TCRMatch
 
 ## Benchmarking
 
-To repeat the benchmarking, the script [benchmark.sh](pipeline_scripts/benchmark.sh) should be used. 
+To repeat the benchmarking, the script [benchmark.sh](scripts/benchmark.sh) should be used. 
 Internally, the script uses the [GNU time command](https://www.gnu.org/software/time/) (`/usr/bin/time`) 
 to benchmark the time (user, system, elapsed) and memory (maxrss) usage. 
 Several paths must be specified at the beginning of the benchmarking script:
