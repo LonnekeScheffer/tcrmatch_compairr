@@ -9,6 +9,7 @@ output_folder=/storage/lonnekes/TCRMatch_CompAIRR/benchmarking
 compairr_path=/storage/lonnekes/TCRMatch_CompAIRR/compairr/src/compairr
 tcrmatch_path=/storage/lonnekes/TCRMatch_CompAIRR/TCRMatch/tcrmatch
 
+pipeline_version=2
 
 if [ -d $output_folder ]
 then
@@ -48,9 +49,9 @@ if [ $differences = 1 ] || [ $indels = 0 ]; then
 # TCRMatch + CompAIRR benchmarking
 unique_name=r$repetition\_n$n_seqs\_t$n_threads\_d$differences\_i$indels
 echo $unique_name
-outfile=$output_folder/tcrmatch_outfiles/compairr_tcrmatch/$unique_name.txt
+outdir=$output_folder/tcrmatch_outfiles/compairr_tcrmatch/$unique_name
 time_folder=$output_folder/time/compairr_tcrmatch/$unique_name
-bash scripts/run_compairr_tcrmatch.sh $compairr_path $tcrmatch_path $compairr_iedb_input $infile $outfile $n_threads $time_folder $differences $indels
+bash scripts/run_compairr_tcrmatch.sh $compairr_path $tcrmatch_path $compairr_iedb_input $infile $outdir $n_threads $time_folder $differences $indels $pipeline_version
 fi
 
 done
