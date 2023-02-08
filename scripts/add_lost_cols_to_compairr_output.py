@@ -20,14 +20,14 @@ def parse_args(args):
 
 
 def add_cols(iedb_file, pairs_file):
-    iedb = pd.read_csv(iedb_file, sep="\t", usecols=['sequence_id', 'repertoire_id', 'cdr3_aa', 'original_seq', 'receptor_group', 'epitopes', 'source_organisms', 'source_antigens'])
+    iedb = pd.read_csv(iedb_file, sep="\t", usecols=['cdr3_aa', 'original_seq', 'receptor_group', 'epitopes', 'source_organisms', 'source_antigens'])
     iedb.rename(columns={"cdr3_aa": "trimmed_seq"}, inplace=True)
 
-    filtered = pd.read_csv(pairs_file, sep="\t", usecols=["sequence_id_1", "cdr3_aa_1", "cdr3_aa_2"])
-    filtered.rename(columns={"sequence_id_1": "sequence_id", "cdr3_aa_1": "trimmed_seq", "cdr3_aa_2": "user_seq"}, inplace=True)
+    filtered = pd.read_csv(pairs_file, sep="\t", usecols=["cdr3_aa_1", "cdr3_aa_2"])
+    filtered.rename(columns={"cdr3_aa_1": "trimmed_seq", "cdr3_aa_2": "user_seq"}, inplace=True)
     filtered.drop_duplicates(inplace=True)
 
-    return pd.merge(iedb, filtered, how="right", on=["sequence_id", "trimmed_seq"])
+    return pd.merge(iedb, filtered, how="right", on=["trimmed_seq"])
 
 def export_split_results(result_df, output_folder):
     idx = 1
