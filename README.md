@@ -15,6 +15,10 @@ Several paths must be specified at the beginning of the benchmarking script:
 - compairr_path: path to CompAIRR executable
 - tcrmatch_path: path to TCRMatch executable
 
+Furthermore, the parameter 'pipeline_version' can be used to switch between 2 different compairr+TCRMatch pipelines:
+- 1: original version, running CompAIRR once followed by TCRMatch once
+- 2: new version, running CompAIRR once followed by running TCRMatch for each input CDR3
+
 
 Example benchmarking results are available in the folder [benchmark](benchmark). 
 The benchmarking script will create two output folders: one folder contains all TCRMatch output files ([tcrmatch_outfiles](benchmarking/tcrmatch_outfiles)),

@@ -1,15 +1,15 @@
 #!/bin/bash
 
+pipeline_version=2
+
 iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_data.tsv
 compairr_iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_for_compairr.tsv
 
 infiles_folder=/storage/lonnekes/TCRMatch_CompAIRR/data/infiles
-output_folder=/storage/lonnekes/TCRMatch_CompAIRR/benchmarking
+output_folder=/storage/lonnekes/TCRMatch_CompAIRR/benchmarking_v$pipeline_version
 
 compairr_path=/storage/lonnekes/TCRMatch_CompAIRR/compairr/src/compairr
 tcrmatch_path=/storage/lonnekes/TCRMatch_CompAIRR/TCRMatch/tcrmatch
-
-pipeline_version=2
 
 if [ -d $output_folder ]
 then
@@ -24,9 +24,9 @@ mkdir $output_folder/time
 mkdir $output_folder/time/compairr_tcrmatch
 mkdir $output_folder/time/tcrmatch
 
-for repetition in 1 #2 3
+for repetition in 1 2 3
 do
-for n_seqs in 10 #100 1000 # 10000
+for n_seqs in 10 100 1000 10000
 do
 infile=$infiles_folder/infile_$n_seqs\_seqs.txt
 for n_threads in 1 8
