@@ -25,7 +25,6 @@ def add_cols(iedb_file, pairs_file):
 
     filtered = pd.read_csv(pairs_file, sep="\t", usecols=["cdr3_aa_1", "cdr3_aa_2"])
     filtered.rename(columns={"cdr3_aa_1": "trimmed_seq", "cdr3_aa_2": "user_seq"}, inplace=True)
-    filtered.drop_duplicates(inplace=True)
 
     return pd.merge(iedb, filtered, how="right", on=["trimmed_seq"])
 
@@ -39,6 +38,7 @@ def export_split_results(result_df, output_folder):
 
 def export_results_df(result_df, output_file):
     result = result_df[IEDB_COLUMNS]
+    result.drop_duplicates(inplace=True)
     result.to_csv(output_file, sep="\t", index=False)
 
 def export_cdr3(export_cdr3, output_file):
