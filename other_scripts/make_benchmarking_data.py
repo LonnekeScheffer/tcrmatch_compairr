@@ -2,6 +2,7 @@ import sys
 import argparse
 from pathlib import Path
 import pandas as pd
+import random
 
 pd.set_option('display.max_columns', None)
 
@@ -47,6 +48,8 @@ def main(args):
 
     for n_sequences in args.n_sequences:
         for iedb_implant_rate in args.iedb_implant_rate:
+            random.shuffle(olga_cdr3s)
+            random.shuffle(iedb_cdr3s)
             sequences = make_bemchmarking_dataset(olga_cdr3s, iedb_cdr3s, n_sequences, iedb_implant_rate)
             output_file = args.output_folder / f"1e{len(str(n_sequences)) - 1}_{iedb_implant_rate*100}.tsv"
             export_benchmarking_dataset(output_file, sequences)
@@ -54,5 +57,6 @@ def main(args):
 
 if __name__ == "__main__":
     args = parse_args(sys.argv[1:])
+    main(args)
 
 
