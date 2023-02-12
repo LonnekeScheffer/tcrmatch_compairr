@@ -33,7 +33,7 @@ def make_bemchmarking_dataset(olga_sequences, iedb_sequences, n_sequences, iedb_
     n_iedb_sequences = int(n_sequences * iedb_implant_rate)
     n_olga_sequences = n_sequences - n_iedb_sequences
 
-    return olga_sequences[:n_olga_sequences] + iedb_sequences[:n_iedb_sequences]
+    return iedb_sequences[:n_iedb_sequences] + olga_sequences[:n_olga_sequences]
 
 def export_benchmarking_dataset(output_file, sequences):
     lines = ["cdr3_aa"] + sequences
@@ -51,7 +51,7 @@ def main(args):
             random.shuffle(olga_cdr3s)
             random.shuffle(iedb_cdr3s)
             sequences = make_bemchmarking_dataset(olga_cdr3s, iedb_cdr3s, n_sequences, iedb_implant_rate)
-            output_file = args.output_folder / f"1e{len(str(n_sequences)) - 1}_{iedb_implant_rate*100}.tsv"
+            output_file = args.output_folder / f"n1e{len(str(n_sequences)) - 1}_p{iedb_implant_rate*100}.tsv"
             export_benchmarking_dataset(output_file, sequences)
 
 

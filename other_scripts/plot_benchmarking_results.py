@@ -55,7 +55,7 @@ def process_time_file(time_file, prefix, keep=("elapsed", "maxrss")):
     return output
 
 def get_setting_cols(df):
-    setting_cols = ["r", "n", "t"]
+    setting_cols = ["r", "n", "p", "t"]
 
     if "d" in df.columns:
         setting_cols.append("d")
@@ -82,11 +82,12 @@ def collapse_repetitions(df):
 
 def format_df(data):
     return collapse_repetitions(df_to_long(pd.DataFrame(data)))
+
 def process_benchmark_folder(base_folder, keep=("elapsed", "maxrss")):
     data = []
 
-    for folder in base_folder.glob("r*_n*_t*"):
-        experiment_data = get_info(folder.stem)
+    for folder in base_folder.glob("r*_n*_p*_t*"):
+        experiment_data = get_info(folder.name)
 
         elapsed_total = 0
         maxrss_max = 0
@@ -108,7 +109,7 @@ def process_benchmark_folder(base_folder, keep=("elapsed", "maxrss")):
         data.append(experiment_data)
 
     df = format_df(data)
-    df["pipeline"] = base_folder.stem
+    df["pipeline"] = base_folder.name
 
     return df
 
@@ -133,21 +134,28 @@ def add_error(df):
     df["e_plus"] = df["result_valuemax"] - df["result_valuemean"]
     df["e_minus"] = df["result_valuemean"] - df["result_valuemin"]
 
-def plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", time_type="seconds"):
-    df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="elapsed")
-    df = df[df["t"] == t]
-
-    format_time(df, time_type)
-    add_error(df)
-
+def update_pipeline_name(df):
     df["pipeline"] = df["pipeline"].replace({"compairr_tcrmatch_d1_i0": "CompAIRR with d=1, no indels + TCRMatch",
                                              "compairr_tcrmatch_d1_i1": "CompAIRR with d=1, with indels + TCRMatch",
                                              "compairr_tcrmatch_d2_i0": "CompAIRR with d=2, no indels + TCRMatch",
                                              "tcrmatch": "TCRMatch"})
 
+def update_n_sequences(df):
+    df["n"] = df["n"].replace({"1e2": "100", "1e3": "1.000", "1e4": "10.000", "1e5": "100.000", "1e6": "1.000.000"})
+
+def plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", p="1.0", time_type="seconds"):
+    df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="elapsed")
+    df = df[df["t"] == t]
+    df = df[df["p"] == p]
+
+    format_time(df, time_type)
+    add_error(df)
+    update_pipeline_name(df)
+    update_n_sequences(df)
+
     fig = px.line(df, x="n", y="result_valuemean", color="pipeline",
                   error_y="e_plus", error_y_minus="e_minus", log_y=False,
-                  template="plotly_white",
+                  template="plotly_white", range_y=[0, 40],
                   labels={"result_valuemean": f"time ({time_type})",
                           "n": "number of user-input CDR3s"})
 
@@ -156,8 +164,9 @@ def plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", time_type="secon
     fig.show()
 
 
-def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", time_type="seconds"):
+def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", p="1.0", time_type="seconds"):
     comp_data = comp_data[comp_data["t"] == t]
+    comp_data = comp_data[comp_data["p"] == p]
     comp_data = comp_data[comp_data["result_type"].isin(["compairr_elapsed", "tcrmatch_elapsed", "fileprocessing_elapsed"])]
 
     comp_data["compairr_setting"] = "d=" + comp_data["d"] + ", i=" + comp_data["i"]
@@ -165,6 +174,7 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", time_type="second
     comp_data["result_type"] = comp_data["result_type"].replace({"compairr_elapsed": "CompAIRR",
                                                                  "tcrmatch_elapsed": "TCRMatch",
                                                                   "fileprocessing_elapsed": "File processing"})
+    update_n_sequences(comp_data)
     format_time(comp_data, time_type)
     add_error(comp_data)
 
@@ -176,15 +186,35 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, t="1", time_type="second
     fig.update_layout(font=dict(size=18))
     fig.show()
 
+def plot_max_rss_benchmarking(comp_data, tcrm_data, t="1", p="1.0"):
+    df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="maxrss")
+    df = df[df["t"] == t]
+    df = df[df["p"] == p]
+
+    add_error(df)
+    update_pipeline_name(df)
+    update_n_sequences(df)
+
+    fig = px.line(df, x="n", y="result_valuemean", color="pipeline",
+                  error_y="e_plus", error_y_minus="e_minus", log_y=False,
+                  template="plotly_white",
+                  labels={"result_valuemean": f"Max RSS",
+                          "n": "number of user-input CDR3s"})
+
+    fig.update_layout(font=dict(size=18))
+
+    fig.show()
+
 
 def make_all_plots(args):
     comp_data = process_benchmark_folder(args.time_folder / "compairr_tcrmatch")
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
 
-    plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", time_type="minutes")
-    plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="8", time_type="minutes")
+    plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="1", p="1.0", time_type="minutes")
+    plot_elapsed_time_benchmarking(comp_data, tcrm_data, t="8", p="1.0", time_type="minutes")
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
+    plot_max_rss_benchmarking(comp_data, tcrm_data, t="1", p="1.0")
 
     # todo figure for memory benchmark
 

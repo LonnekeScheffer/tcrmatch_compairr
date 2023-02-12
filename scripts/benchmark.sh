@@ -5,7 +5,7 @@ pipeline_version=2
 iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_data.tsv
 compairr_iedb_input=/storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_for_compairr.tsv
 
-infiles_folder=/storage/lonnekes/TCRMatch_CompAIRR/data/infiles
+infiles_folder=/storage/lonnekes/TCRMatch_CompAIRR/data/benchmarking_data
 output_folder=/storage/lonnekes/TCRMatch_CompAIRR/benchmarking_v$pipeline_version
 
 compairr_path=/storage/lonnekes/TCRMatch_CompAIRR/compairr/src/compairr
@@ -26,14 +26,19 @@ mkdir $output_folder/time/tcrmatch
 
 for repetition in 1 2 3
 do
-for n_seqs in 10 100 1000 10000
+for n_seqs in 1e2 # 1e3 1e4 1e5 1e6
 do
-infile=$infiles_folder/infile_$n_seqs\_seqs.txt
+
+for implant_percentage in 0.1 1.0 10.0
+do
+benchmark_dataset=n$n_seqs\_p$implant_percentage
+infile=$infiles_folder/$benchmark_dataset.tsv
+
 for n_threads in 1 8
 do
 
 # TCRMatch benchmarking
-unique_name=r$repetition\_n$n_seqs\_t$n_threads
+unique_name=r$repetition\_$benchmark_dataset\_t$n_threads
 echo $unique_name
 outfile=$output_folder/tcrmatch_outfiles/tcrmatch/$unique_name.txt
 time_folder=$output_folder/time/tcrmatch/$unique_name
@@ -47,7 +52,7 @@ do
 
 if [ $differences = 1 ] || [ $indels = 0 ]; then
 # TCRMatch + CompAIRR benchmarking
-unique_name=r$repetition\_n$n_seqs\_t$n_threads\_d$differences\_i$indels
+unique_name=r$repetition\_$benchmark_dataset\_t$n_threads\_d$differences\_i$indels
 echo $unique_name
 outdir=$output_folder/tcrmatch_outfiles/compairr_tcrmatch/$unique_name
 time_folder=$output_folder/time/compairr_tcrmatch/$unique_name
@@ -58,6 +63,7 @@ done
 
 done
 
+done
 done
 done
 done

@@ -37,8 +37,8 @@ def export_split_results(result_df, output_folder):
         idx += 1
 
 def export_results_df(result_df, output_file):
-    result = result_df[IEDB_COLUMNS]
-    result.drop_duplicates(inplace=True)
+    result = result_df[IEDB_COLUMNS].copy()
+    result = result.drop_duplicates()
     result.to_csv(output_file, sep="\t", index=False)
 
 def export_cdr3(export_cdr3, output_file):
