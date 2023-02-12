@@ -11,7 +11,7 @@ def parse_args(args):
     parser.add_argument("--olga_sequences", default="../data/olga/olga_sequences.tsv")
     parser.add_argument("--iedb_sequences", default="../data/IEDB_data.tsv")
     parser.add_argument("--output_folder", default="../data/benchmarking_data")
-    parser.add_argument("--n_sequences", default=[10000, 100000, 1000000])
+    parser.add_argument("--n_sequences", default=[100, 1000, 10000, 100000, 1000000])
     parser.add_argument("--iedb_implant_rate", default=[0.1, 0.01, 0.001])
 
     parsed_args = parser.parse_args(args)
