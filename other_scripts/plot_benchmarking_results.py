@@ -151,7 +151,7 @@ def update_n_sequences(df):
     df["n"] = df["n"].replace({"1e2": "100", "1e3": "1.000", "1e4": "10.000", "1e5": "100.000", "1e6": "1.000.000"})
 
 def update_percentage(df):
-    df["p"] = df["p"].replace({"0.1": "0.1%", "1.0": "1%", "10.0": "10%"})
+    df["p"] = df["p"].replace({"0.1": "0.1%", "1.0": "1%", "10.0": "10%", "100.0": "100%"})
 
 def keep_selected(df, t=None, p=None, d=None, n=None):
     if t is not None:
@@ -328,7 +328,7 @@ def make_all_plots(args):
     comp_data = process_benchmark_folder(args.time_folder / "compairr_tcrmatch")
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
-    plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="10.0")
+    plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0")
 
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, time_type="minutes")
 
