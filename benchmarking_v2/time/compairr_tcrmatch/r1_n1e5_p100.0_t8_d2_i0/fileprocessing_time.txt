@@ -1,0 +1,5 @@
+exitcode 0
+user     305.04
+system   13.95
+elapsed  5:17.83
+maxrss   617504

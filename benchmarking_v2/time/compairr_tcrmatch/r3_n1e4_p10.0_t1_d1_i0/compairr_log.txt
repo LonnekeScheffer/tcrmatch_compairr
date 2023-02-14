@@ -1,0 +1,65 @@
+CompAIRR 1.9.0 - Comparison of Adaptive Immune Receptor Repertoires
+https://github.com/uio-bmi/compairr
+
+Start time:        Mon Feb 13 14:06:09 CET 2023
+Command:           Overlap (-m)
+Repertoire set 1:  /storage/lonnekes/TCRMatch_CompAIRR/data/IEDB_for_compairr.tsv
+Repertoire set 2:  /storage/lonnekes/TCRMatch_CompAIRR/data/benchmarking_data/n1e4_p10.0.tsv
+Nucleotides (n):   No
+Differences (d):   1
+Indels (i):        No
+Ignore counts (f): Yes
+Ignore genes (g):  Yes
+Ign. unknown (u):  No
+Use cdr3 column:   Yes
+Threads (t):       1
+Output file (o):   /storage/lonnekes/TCRMatch_CompAIRR/benchmarking_v2/tcrmatch_outfiles/compairr_tcrmatch/r3_n1e4_p10.0_t1_d1_i0/tmp/compairr_out.txt
+Output format (a): Matrix
+Score (s):         Sum of products of counts
+Pairs file (p):    /storage/lonnekes/TCRMatch_CompAIRR/benchmarking_v2/tcrmatch_outfiles/compairr_tcrmatch/r3_n1e4_p10.0_t1_d1_i0/tmp/pairs.tsv
+Log file (l):      /storage/lonnekes/TCRMatch_CompAIRR/benchmarking_v2/time/compairr_tcrmatch/r3_n1e4_p10.0_t1_d1_i0/compairr_log.txt
+
+Immune receptor repertoire set 1
+
+Reading sequences: 100% (0.035613796s)
+Repertoires:       1
+Sequences:         140317
+Residues:          1741907
+Shortest:          3
+Longest:           23
+Average length:    12.4
+Total dupl. count: 140317
+Indexing:          100% (0.000345269s)
+
+Repertoires in set:
+# Sequences  Count Repertoire ID
+1    140317 140317 1
+
+Immune receptor repertoire set 2
+
+Reading sequences: 100% (0.001474838s)
+Repertoires:       1
+Sequences:         10000
+Residues:          130944
+Shortest:          4
+Longest:           26
+Average length:    13.1
+Total dupl. count: 10000
+Indexing:          100% (0.000012681s)
+
+Repertoires in set:
+# Sequences Count Repertoire ID
+1     10000 10000 2
+
+Unique V genes:    1
+Unique J genes:    1
+Computing hashes:  100% (0.002568196s)
+Check duplicates:  100% (0.003486610s)
+Warning: 2270 duplicates detected in repertoire set 1
+Computing hashes:  100% (0.000163624s)
+Hashing sequences: 100% (0.000173304s)
+Warning: 5 duplicates detected in repertoire set 2
+Analysing:         100% (0.179896806s)
+Writing results:   100% (0.000004820s)
+
+End time:          Mon Feb 13 14:06:09 CET 2023

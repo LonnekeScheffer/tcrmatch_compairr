@@ -1,0 +1,5 @@
+exitcode 0
+user     8.01
+system   20.04
+elapsed  0:09.03
+maxrss   18872
