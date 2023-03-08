@@ -4,7 +4,7 @@ A pipeline using CompAIRR as pre-filter for TCRMatch
 
 ## Benchmarking
 
-To repeat the benchmarking, the script [benchmark.sh](scripts/benchmark.sh) should be used. 
+To repeat the benchmarking, the script [benchmark.sh](scripts/compare_pipelines_version/benchmark.sh) should be used. 
 Internally, the script uses the [GNU time command](https://www.gnu.org/software/time/) (`/usr/bin/time`) 
 to benchmark the time (user, system, elapsed) and memory (maxrss) usage. 
 Several paths must be specified at the beginning of the benchmarking script:
@@ -15,12 +15,9 @@ Several paths must be specified at the beginning of the benchmarking script:
 - compairr_path: path to CompAIRR executable
 - tcrmatch_path: path to TCRMatch executable
 
-Furthermore, the parameter 'pipeline_version' can be used to switch between 2 different compairr+TCRMatch pipelines:
-- 1: original version, running CompAIRR once followed by TCRMatch once
-- 2: new version, running CompAIRR once followed by running TCRMatch for each input CDR3
-
-
+The current benchmarking pipeline is v3. The newest benchmarking results are not done yet (will be updated once done).
 Example benchmarking results for pipeline v2 are available in the folder [benchmarking_v2](benchmarking_v2). 
+
 The benchmarking script will create two output folders: one folder contains all TCRMatch output files ([tcrmatch_outfiles](benchmarking_v2/tcrmatch_outfiles)),
 the other folder contains the results of the GNU time command and CompAIRR log files ([time](benchmarking_v2/time)). 
 The script [plot_benchmarking_results.py](other_scripts/plot_benchmarking_results.py) can subsequently

@@ -7,7 +7,7 @@ import plotly.express as px
 pd.set_option('display.max_columns', None)
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    parser.add_argument("--time_folder", default="../benchmarking_v2/time/")
+    parser.add_argument("--time_folder", default="../benchmarking_v3/time/")
     # parser.add_argument("--time_folder", default="../comparing_pipelines/benchmarking_v1/time/")
 
     parsed_args = parser.parse_args(args)
@@ -41,7 +41,11 @@ def process_time_file(time_file, prefix, keep=("elapsed", "maxrss")):
         for line in file:
             if line == "\n":
                 continue
-            result_type, result_str = line.strip().split()
+
+            try:
+                result_type, result_str = line.strip().split()
+            except ValueError:
+                raise ValueError(f"Found unexpected line: {line} in the file {time_file}")
 
             if result_type in keep:
                 if result_type == "elapsed":
@@ -147,6 +151,11 @@ def get_pipeline_color_map():
             "CompAIRR with d=2, no indels + TCRMatch": "#F05452",
             "TCRMatch": "#58A7B7"}
 
+def get_breakdown_color_map():
+    return {"CompAIRR": "#F7CD55",
+            "File processing": "#FF9853",
+            "TCRMatch": "#58A7B7"}
+
 def update_n_sequences(df):
     df["n"] = df["n"].replace({"1e2": "100", "1e3": "1.000", "1e4": "10.000", "1e5": "100.000", "1e6": "1.000.000"})
 
@@ -154,14 +163,11 @@ def update_percentage(df):
     df["p"] = df["p"].replace({"0.1": "0.1%", "1.0": "1%", "10.0": "10%", "100.0": "100%"})
 
 def keep_selected(df, t=None, p=None, d=None, n=None):
-    if t is not None:
-        df = df[df["t"] == t]
-    if p is not None:
-        df = df[df["p"] == p]
-    if d is not None:
-        df = df[df["d"] == d]
-    if n is not None:
-        df = df[df["n"] == n]
+    for value, name in [(t, "t"), (p, "p"), (d, "d"), (n, "n")]:
+        if value is not None:
+            assert value in set(df[name]), f"Tried to subset {name} to only value {value}, but found only the following values in the df: {set(df[name])}"
+            df = df[df[name] == value]
+
     return df
 
 def plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0"):
@@ -271,6 +277,7 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
     fig = px.bar(comp_data, x="n", y="result_valuemean", color="result_type",  barmode="stack",
                  facet_col=facet_col, facet_row=facet_row,
                   template="plotly_white", #facet_col="compairr_setting",
+                 color_discrete_map=get_breakdown_color_map(),
                   labels={"result_valuemean": f"time ({time_type})",
                           "n": "number of user-input CDR3s",
                           "t": "number of threads"})
@@ -316,8 +323,9 @@ def breakdown_maxrss_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
 
     fig = px.bar(comp_data, x="n", y="result_valuemean", color="result_type",  barmode="group",
                  facet_col=facet_col, facet_row=facet_row,
-                  template="plotly_white",
-                  labels={"result_valuemean": f"Max RSS (MB)",
+                 template="plotly_white",
+                 color_discrete_map=get_breakdown_color_map(),
+                 labels={"result_valuemean": f"Max RSS (MB)",
                           "n": "number of user-input CDR3s",
                           "t": "number of threads"})
 
@@ -328,11 +336,12 @@ def make_all_plots(args):
     comp_data = process_benchmark_folder(args.time_folder / "compairr_tcrmatch")
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
-    plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0")
+    # plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0")
 
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, time_type="minutes")
 
-    plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
+    # plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
+    plot_time_per_percentage(comp_data, tcrm_data, n="1e2", time_type="minutes")
 
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)
@@ -340,9 +349,6 @@ def make_all_plots(args):
     plot_max_rss_benchmarking(comp_data, tcrm_data, p="1.0")
 
     breakdown_maxrss_compairr_pipeline(comp_data)
-
-
-
 
 
 if __name__ == "__main__":
