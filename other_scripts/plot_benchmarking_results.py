@@ -304,16 +304,12 @@ def breakdown_maxrss_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
     fig.show()
 
 def make_all_plots(args):
-    # todo setting for deconstructed vs combined
-
-
     comp_data = process_benchmark_folder(args.time_folder / "compairr_tcrmatch")
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, time_type="minutes")
 
-    plot_time_per_percentage(comp_data, tcrm_data, n="1e2", time_type="minutes")
-    # plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
+    plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
 
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)
