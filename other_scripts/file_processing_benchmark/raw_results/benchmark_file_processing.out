@@ -1,0 +1,30 @@
+chunking and df export
+exitcode 0
+user     217.91
+system   10.63
+elapsed  3:50.13
+maxrss   147000
+stringio
+exitcode 0
+user     270.67
+system   3.28
+elapsed  4:36.28
+maxrss   463432
+chunking and writing after
+exitcode 0
+user     301.71
+system   19.80
+elapsed  5:25.16
+maxrss   144236
+pandas original (no chunk) minus drop duplicates
+exitcode 0
+user     69.52
+system   6.16
+elapsed  0:56.28
+maxrss   342948
+awk
+exitcode 0
+user     920.94
+system   167.06
+elapsed  18:16.71
+maxrss   18804

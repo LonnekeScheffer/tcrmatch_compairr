@@ -1,0 +1,2 @@
+This folder contains several different solutions of the 'file processing' step in between CompAIRR and TCRMatch.
+In the end, 'chunk_df_solution.py' was the best (memory efficient while reasonably fast).

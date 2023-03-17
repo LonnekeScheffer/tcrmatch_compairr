@@ -1,0 +1,66 @@
+CompAIRR 1.11.0 - Comparison of Adaptive Immune Receptor Repertoires
+https://github.com/uio-bmi/compairr
+
+Start time:        Thu Mar 16 11:16:05 PDT 2023
+Command:           Overlap (-m)
+Repertoire set 1:  /Users/lonneke/PycharmProjects/tcrmatch_compairr/data/IEDB_for_compairr.tsv
+Repertoire set 2:  /Users/lonneke/PycharmProjects/tcrmatch_compairr/data/benchmarking_data/n1e5_p1.0.tsv
+Nucleotides (n):   No
+Differences (d):   2
+Indels (i):        No
+Ignore counts (f): Yes
+Ignore genes (g):  Yes
+Ign. unknown (u):  No
+Use cdr3 column:   Yes
+Threads (t):       4
+Output file (o):   /Users/lonneke/PycharmProjects/tcrmatch_compairr/scripts/file_processing_benchmark/out.tsv
+Output format (a): Matrix
+Score (s):         Sum of products of counts
+Pairs file (p):    /Users/lonneke/PycharmProjects/tcrmatch_compairr/scripts/file_processing_benchmark/pairs.tsv
+Keep columns:      original_seq,receptor_group,epitopes,source_organisms,source_antigens
+Log file (l):      /Users/lonneke/PycharmProjects/tcrmatch_compairr/scripts/file_processing_benchmark/log.tsv
+
+Immune receptor repertoire set 1
+
+Reading sequences: 100% (0.099332030s)
+Repertoires:       1
+Sequences:         140317
+Residues:          1741907
+Shortest:          3
+Longest:           23
+Average length:    12.4
+Total dupl. count: 140317
+Indexing:          100% (0.005544702s)
+
+Repertoires in set:
+# Sequences  Count Repertoire ID
+1    140317 140317 1
+
+Immune receptor repertoire set 2
+
+Reading sequences: 100% (0.027332750s)
+Repertoires:       1
+Sequences:         100000
+Residues:          1313297
+Shortest:          3
+Longest:           30
+Average length:    13.1
+Total dupl. count: 100000
+Indexing:          100% (0.003094185s)
+
+Repertoires in set:
+# Sequences  Count Repertoire ID
+1    100000 100000 2
+
+Unique V genes:    1
+Unique J genes:    1
+Computing hashes:  100% (0.002280042s)
+Check duplicates:  100% (0.004355503s)
+Warning: 2270 duplicates detected in repertoire set 1
+Computing hashes:  100% (0.001516813s)
+Hashing sequences: 100% (0.001971336s)
+Warning: 660 duplicates detected in repertoire set 2
+Analysing:         100% (6.059171776s)
+Writing results:   100% (0.000007845s)
+
+End time:          Thu Mar 16 11:16:11 PDT 2023

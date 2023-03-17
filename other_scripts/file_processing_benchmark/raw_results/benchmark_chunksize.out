@@ -1,0 +1,36 @@
+chunking and df export chunksize 1000
+exitcode 0
+user     821.22
+system   30.16
+elapsed  14:18.64
+maxrss   92228
+chunking and df export chunksize 10000
+exitcode 0
+user     549.47
+system   21.67
+elapsed  9:35.37
+maxrss   103416
+chunking and df export chunksize 100000
+exitcode 0
+user     215.28
+system   10.18
+elapsed  3:46.94
+maxrss   146148
+chunking and df export chunksize 1000000
+exitcode 0
+user     82.16
+system   7.42
+elapsed  1:19.03
+maxrss   337936
+chunking and df export chunksize 10000000
+exitcode 0
+user     61.09
+system   6.21
+elapsed  0:55.21
+maxrss   345868
+pandas original (no chunk) minus drop duplicates
+exitcode 0
+user     72.91
+system   6.80
+elapsed  0:57.21
+maxrss   342032

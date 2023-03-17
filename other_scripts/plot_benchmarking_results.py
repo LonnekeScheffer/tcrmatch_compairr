@@ -5,9 +5,11 @@ import pandas as pd
 import plotly.express as px
 
 pd.set_option('display.max_columns', None)
+
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    parser.add_argument("--time_folder", default="../benchmarking_v3/time/")
+    # parser.add_argument("--time_folder", default="/Users/lonneke/PycharmProjects/tcrmatch_compairr/benchmarking_tcrmatchtrheads/benchmarking_v5_t1/time")
+    parser.add_argument("--time_folder", default="../benchmarking_results/benchmarking_v6_failed/time/")
     # parser.add_argument("--time_folder", default="../comparing_pipelines/benchmarking_v1/time/")
 
     parsed_args = parser.parse_args(args)
@@ -56,6 +58,8 @@ def process_time_file(time_file, prefix, keep=("elapsed", "maxrss")):
                     result = result_str
 
                 output[f"{prefix}_{result_type}"] = result
+
+    assert len(output) > 0, f"Error when processing time file {time_file} (could the file be empty?)"
 
     return output
 
@@ -170,36 +174,6 @@ def keep_selected(df, t=None, p=None, d=None, n=None):
 
     return df
 
-def plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0"):
-    df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="elapsed")
-    time_type = "minutes"
-
-    df = keep_selected(df, t="1", p=p)
-    df = df[df["n"].isin(["1e2", "1e3", "1e4"])]
-    df = df[df["pipeline"].isin(["compairr_tcrmatch_d1_i0", "compairr_tcrmatch_d2_i0", "tcrmatch"])]
-
-    format_time(df, time_type)
-    add_error(df)
-    update_pipeline_name(df)
-
-    df["n"] = df["n"].replace({"1e2": "100", "1e3": "1000", "1e4": "10000"})
-
-
-    fig = px.line(df, x="n", y="result_valuemean", color="pipeline",
-                  error_y="e_plus", error_y_minus="e_minus", log_y=False,
-                  template="plotly_white", #range_y=[0, 40],
-                  color_discrete_map={"CompAIRR with d=1, no indels + TCRMatch": px.colors.qualitative.Plotly[0],
-                                      "CompAIRR with d=2, no indels + TCRMatch": px.colors.qualitative.Plotly[1],
-                                      "TCRMatch": px.colors.qualitative.Plotly[2]},
-                  labels={"result_valuemean": f"time ({time_type})",
-                          "n": "number of user-input CDR3s",
-                          "t": "number of threads"})
-
-    fig.update_layout(font=dict(size=18))
-
-    fig.show()
-
-
 def plot_elapsed_time_benchmarking(comp_data, tcrm_data, t=None, p="1.0", time_type="seconds",
                                    facet_col="t", facet_row=None, same_y=False):
     df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="elapsed")
@@ -257,13 +231,12 @@ def plot_time_per_percentage(comp_data, tcrm_data, t=None, n="1e5", time_type="s
 
     fig.show()
 
-
-
 def breakdown_elapsed_time_compairr_pipeline(comp_data, p="1.0", t=None, d=None, time_type="seconds",
                                              facet_col="compairr_setting", facet_row="t"):
     comp_data = keep_selected(comp_data, t=t, p=p, d=d)
 
-    comp_data = comp_data[comp_data["result_type"].isin(["compairr_elapsed", "tcrmatch_elapsed", "fileprocessing_elapsed"])]
+    result_types_to_keep = [result_type for result_type in set(comp_data["result_type"]) if result_type.endswith("_elapsed") and result_type != "pipeline_elapsed"]
+    comp_data = comp_data[comp_data["result_type"].isin(result_types_to_keep)]
 
     comp_data["compairr_setting"] = "d=" + comp_data["d"] + ", i=" + comp_data["i"]
 
@@ -288,8 +261,6 @@ def breakdown_elapsed_time_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
 def plot_max_rss_benchmarking(comp_data, tcrm_data, p="1.0", facet_col="t"):
     df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="maxrss")
     df = keep_selected(df, p=p)
-
-    # df["result_valuemean"] = df["result_valuemean"] / 1000
 
     add_error(df)
     update_pipeline_name(df)
@@ -333,15 +304,16 @@ def breakdown_maxrss_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
     fig.show()
 
 def make_all_plots(args):
+    # todo setting for deconstructed vs combined
+
+
     comp_data = process_benchmark_folder(args.time_folder / "compairr_tcrmatch")
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
-    # plot_ad_hoc_comparison_last_week(comp_data, tcrm_data, p="100.0")
-
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, time_type="minutes")
 
-    # plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
     plot_time_per_percentage(comp_data, tcrm_data, n="1e2", time_type="minutes")
+    # plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
 
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
     breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)

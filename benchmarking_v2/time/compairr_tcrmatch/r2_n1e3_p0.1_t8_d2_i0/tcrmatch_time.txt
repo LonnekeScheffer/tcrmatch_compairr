@@ -1,5 +1,0 @@
-exitcode 0
-user     1.79
-system   4.04
-elapsed  0:01.74
-maxrss   18824

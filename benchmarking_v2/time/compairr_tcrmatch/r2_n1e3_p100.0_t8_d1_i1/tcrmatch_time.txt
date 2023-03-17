@@ -1,5 +1,0 @@
-exitcode 0
-user     20.10
-system   9.72
-elapsed  0:08.53
-maxrss   18760

@@ -1,5 +1,0 @@
-exitcode 0
-user     18.03
-system   0.10
-elapsed  0:18.32
-maxrss   161148
