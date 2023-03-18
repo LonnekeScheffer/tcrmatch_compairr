@@ -73,8 +73,8 @@ def create_pairs_file_with_compairr(args):
     subprocess_result = subprocess.run(cmd_args, capture_output=True, text=True, check=True)
 
     if not args.pairs_file.is_file():
-        if subprocess_result.stderr:
-            err_str = f": {subprocess_result.stderr}"
+        err_str = f": {subprocess_result.stderr}" if subprocess_result.stderr else ""
+
         raise RuntimeError(f"An error occurred while running CompAIRR{err_str}\n"
                            f"See the log file for more information: {args.compairr_log}")
 
