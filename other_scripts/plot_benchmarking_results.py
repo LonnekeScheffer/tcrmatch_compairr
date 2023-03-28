@@ -334,11 +334,11 @@ def make_all_plots(args):
     # breakdown times are logged differently now
     # breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
     # breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)
+    # breakdown_maxrss_compairr_pipeline(comp_data)
 
     plot_max_rss_benchmarking(comp_data, tcrm_data, p="1.0")
     plot_max_rss_per_percentage(comp_data, tcrm_data, n="1e5")
 
-    breakdown_maxrss_compairr_pipeline(comp_data)
 
 
 if __name__ == "__main__":
