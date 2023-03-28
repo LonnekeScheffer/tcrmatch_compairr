@@ -1,0 +1,5 @@
+exitcode 0
+user     24.04
+system   0.61
+elapsed  0:24.79
+maxrss   86936

@@ -1,0 +1,8 @@
+input_sequence	match_sequence	score	receptor_group	epitope	antigen	organism	
+ASSLTGNTGELF	ASSLSGNTGELF	0.9789	100576	AYKTFPPTEPK,FLWLLWPVTLACFVLAAV	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLTGNTGELF	ASSVTGNTGELF	0.9796	128260	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVYEQY	ASSLVYEQY	1.0000	103604	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVYEQY	ASSLLYEQY	0.9764	101587	GNYTVSCLPFTI	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSLETQY	ASSPSVETQY	0.9771	114568	ILGLPTQTV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGLAGGNTGELF	ASSQGLAGGNTGELF	0.9707	116771	STDTGVEHVTFFIYNK	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SSGGGAYEQY	ASSGGGAYEQY	0.9729	57838	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))

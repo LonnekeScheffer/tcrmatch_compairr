@@ -33,7 +33,7 @@ do
 for n_seqs in 1e2 1e3 1e4 1e5
 do
 
-for implant_percentage in 0.1 1.0 10.0
+for implant_percentage in 0.1 1.0 10.0 100.0
 do
 benchmark_dataset=n$n_seqs\_p$implant_percentage
 infile=$infiles_folder/$benchmark_dataset.tsv
@@ -78,7 +78,7 @@ else
   indels_arg=''
 fi
 
-(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" python3 $compairr_tcrmatch_path -u $infile -e $compairr_iedb_input -o $out_subdir/tcrmatch_result.tsv -d $differences -t $n_threads -s $threshold -c $compairr_path -m $tcrmatch_path -l $out_subdir/tmp -z 100000 $indels_arg) 2> $time_subdir/compairr_tcrmatch_time.txt
+(/usr/bin/time -f "exitcode %x\nuser     %U\nsystem   %S\nelapsed  %E\nmaxrss   %M" python3 $compairr_tcrmatch_path -u $infile -e $compairr_iedb_input -o $out_subdir/tcrmatch_result.tsv -d $differences -t $n_threads -s $threshold -c $compairr_path -m $tcrmatch_path -p $out_subdir/tmp -l $time_subdir/log.txt -z 100000 $indels_arg) 2> $time_subdir/compairr_tcrmatch_time.txt
 ########################################################################
 
 fi

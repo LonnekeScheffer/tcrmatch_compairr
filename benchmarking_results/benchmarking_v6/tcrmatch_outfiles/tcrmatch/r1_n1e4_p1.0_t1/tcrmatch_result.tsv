@@ -1,0 +1,1322 @@
+input_sequence	match_sequence	score	receptor_group	epitope	antigen	organism	
+ASSWLSNQPQH	ASSWLSNQPQH	1.0000	55374	GILGFVFTL,RAKFKQLL	Matrix protein 1,Trans-activator protein BZLF1	Influenza A virus,Human herpesvirus 4 (Epstein Barr virus)
+ASSWLSNQPQH	ASSWMSNQPQH	0.9751	133338	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDALIAYNEQF	ASSDALIAYNEQF	1.0000	74775	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQEQASYEQY	ASSQEQASYEQY	1.0000	118100	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYETGGSSYNEQF	ASSLYETGGSSYNEQF	1.0000	103079	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPLAGGRGEETQY	ASSPLAGGRGEETQY	1.0000	111753	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVVGARGVNTEAF	SVVGARGVNTEAF	1.0000	151311	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDRNLQETQY	ASSLDRNLQETQY	1.0000	94000	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTLGQGLNQPQH	ASTLGQGINQPQH	0.9774	134561	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTLGQGLNQPQH	ASTLGQGLNQPQH	1.0000	134566	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGYEQY	ASSQGYEQF	0.9888	16381	GIVEQCCTSICSLYQ	Insulin precursor	Homo sapiens (human)
+ASSQGYEQY	ASSQGYEQF	0.9888	117807	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGYEQY	ASSQGYEQY	1.0000	117808	VLPFNDGVYFASTEK,FLNGSCGSV,VQPTESIVRFPNITNLCPF,RQLLFVVEV,FPQSAPHGVVF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSQGYEQY	ASSQGYEQY	1.0000	28430	VLFAAFSSA	plexin-B1 precursor	Homo sapiens (human)
+ASSQGYEQY	ASSEGYEQY	0.9744	30739	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSQGYEQY	ASSEGYEQY	0.9744	79072	FLWLLWPVTLACFVLAAV,FLNGSCGSV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSQGYEQY	ASKQGYEQY	0.9706	30840	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSQGYEQY	ASSKGYEQY	0.9719	89853	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGYEQY	ASSQGFEQY	0.9722	119025	MIELSLIDFYLCFLAFLLFLVLIML,FLNGSCGSV	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSQGYEQY	ASTQGYEQY	0.9801	133928	YLNTLTLAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAPPQGRTEAF	SAPPQGRTEAF	1.0000	51347	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSQYAVSATGELF	ASSQYAVSATGELF	1.0000	122965	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSSGKEYEQY	ASSLSSGKEYEQY	1.0000	105787	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGQGVMNEQF	ASSWGQGVMNEQF	1.0000	132690	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLPSGYEQY	ASSLPSGYEQY	1.0000	101419	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQWTSGEPKDYEQY	ASSQWTSGEPKDYEQY	1.0000	122953	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGLLSQGDTQY	ASSSGLLSQGDTQY	1.0000	172237	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+SASGSTFYEQY	ASGSTFYEQY	0.9714	175966	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSVVGANQETQY	ASSVVGANQETQY	1.0000	48574	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSALLGSASTAY	ASSALLGSASTQY	0.9810	166082	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQY	0.9810	35681	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQY	0.9810	169314	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQY	0.9810	169262	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQH	0.9710	169124	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQI	0.9724	169125	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTRY	0.9786	169264	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTVF	0.9797	169267	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASSQY	0.9704	169573	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTAY	1.0000	169574	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTEY	0.9817	169575	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTHY	0.9740	169578	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTLF	0.9753	169579	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTLY	0.9818	169580	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQF	0.9761	169582	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSALLGSASTAY	ASSALLGSASTQF	0.9761	169583	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSQDTGSTEAF	ASSQDTGSTEAF	1.0000	14393	GILGFVFTL	Matrix protein 1	Influenza A virus
+SVGGTGVYSYNEQF	SVGGTGVYSYNEQF	1.0000	179148	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSFLLAGDEQY	ASSFLLAGDEQY	1.0000	84980	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHYGTLYNEQF	ASSHYGTLYNEQF	1.0000	85610	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVEGGSRSSYNEQF	SVEGGSRSSYNEQF	1.0000	150985	TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGKGQMNTEAF	ASGKGQMNTEAF	1.0000	70338	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTGQGAIGELF	ASTGQGAIGELF	1.0000	136775	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGPDDYNEQF	ASSGPDDYNEQF	1.0000	16901	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASREGGLAGKTYNEQF	ASREGGLAGKTYNEQF	1.0000	72481	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPPFELAGATDTQY	ASSPPFELAGATDTQY	1.0000	111611	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVGTSATGELF	ASSLVGTSATGELF	1.0000	43182	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+ASSLVGAQETQY	ASSLTGAQETQY	0.9702	14899	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLVGAQETQY	ASSLAGAQETQY	0.9721	90415	LQLGFSTGV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVGAQETQY	ASSLVGAQETQY	1.0000	103759	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVGAQETQY	ASSVVGAQETQY	0.9806	132069	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGRQGAGNTIY	ASSGRQGAGNTIY	1.0000	88832	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHVGSYEQY	ASSHLGSYEQY	0.9749	20337	HGIRNASFI	pM45	Murid herpesvirus 1 deltaMS94.5
+ASSHVGSYEQY	ASSHLGSYEQY	0.9749	170409	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSHVGSYEQY	ASSHVGSYEQY	1.0000	85395	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVSYGYT	ASSVSYGYT	1.0000	127908	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFTPGDYEQY	ASSFTPGDYEQY	1.0000	82636	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQRGGELF	ASSQRGGELF	1.0000	45692	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPTVNTEAF	ASSPTLNTEAF	0.9761	32099	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSPTVNTEAF	ASSPTVNTEAF	1.0000	115596	YLNTLTLAV,MIELSLIDFYLCFLAFLLFLVLIML,KPFERDISTEIY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSPTVNTEAF	ASSPSVNTEAF	0.9785	55101	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPWTGPHNEQY	ASSPWTGPHNEQF	0.9878	173000	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSPWTGPHNEQY	ASSPWTGPHNEQY	1.0000	173001	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSYSEPGETQY	ASSYSEPGETQY	1.0000	17504	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLLAEHYNEQF	ASSLLAEHYNEQF	1.0000	96470	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDRDSTDTQY	ASSDRDSTDTQY	1.0000	81232	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPLGGNTEAF	ASSPIGGNTEAF	0.9798	112521	FTYASALWEI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPLGGNTEAF	ASSPLGGNTEAF	1.0000	112428	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYKNNNQA	ASSYKNNNQA	1.0000	180214	FQPQNGQFI	Nucleoprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+ASSLDLNTEAF	ASSLDLNTEAF	1.0000	94716	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDLNTEAF	ASSLDMNTEAF	0.9788	94826	IPIQASLPF	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLEGSSGSGELF	ASSLEGSSGSGELF	1.0000	93527	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQDPASGYSYNEQF	ASSQDPASGYSYNEQF	1.0000	114310	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLWASGTDTQY	ASSLWASGTDTQY	1.0000	103828	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGTDNQPQH	ASSLGGTDNQPQH	1.0000	17704	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSAPRTGSFLYEQY	ASSAPRTGSFLYEQY	1.0000	76048	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGHHQSYNSPLH	ASSLGHHQSYNSPLH	1.0000	97984	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSASNYGYT	ASSSANYGYT	0.9745	1983	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSASNYGYT	ASSSANYGYT	0.9745	30282	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSASNYGYT	ASSSANYGYT	0.9745	34645	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSASNYGYT	ASSSANYGYT	0.9745	120671	QELIRQGTDYKHW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSASNYGYT	ATSSSNYGYT	0.9710	56190	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSASNYGYT	ASSASNYGYT	1.0000	75415	TVLSFCAFAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASWGGLHEQF	ASWGGLHEQF	1.0000	135356	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLEPPSGGVSYEQY	ASSLEPPSGGVSYEQY	1.0000	92573	FLCLFLLPSLATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDEARGAYEQY	ASSDEARGAYEQY	1.0000	74997	MPASWVMRI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYGTVAEAF	ASSYGTVAEAF	1.0000	131787	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSERIQNTEAF	ASSERIQNTEAF	1.0000	79997	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTYGLAGETQY	ASSTYGLAGETQY	1.0000	16332	IILVAVPHV		
+ASGTGECF	ASGTGECF	1.0000	167582	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGTGLSYEQY	ASGLGTGLSYEQY	0.9716	70642	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSIGTGLSYEQF	0.9748	91123	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSIGTGLSYEQY	0.9833	91124	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSLGTGISYEQY	0.9797	96002	SEHDYQIGGYTEKW,FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGTGLSYEQY	ASSLGTGLSYEQY	1.0000	96097	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSLGTGLTYEQY	0.9771	96098	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSLGTGVSYEQY	0.9750	96319	KTSVDCTMYI,FVCNLLLLFVTVYSHLLLV,SEHDYQIGGYTEKW	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGTGLSYEQY	ASSMGTGLSYEQY	0.9814	109245	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGLSYEQY	ASSVGTGLSYEQY	0.9794	127328	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTALGYGYT	ASSLGTALGYGYT	1.0000	97135	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRDRGPTDTQY	ASSRDRGPTDTQY	1.0000	122078	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLWGLNTEAF	ASSLWGLNTEAF	1.0000	102530	RNPANNAAIVL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYSRDVKNTGELF	ASSYSRDVKNTGELF	1.0000	137234	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASREGVNEQF	ASREGVNEQF	0.9707	147245	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYQGTVNGYT	ASSYQGTVNGYT	1.0000	131394	ILLIIMRTFKVSIWNLDYII	ORF6 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSIGSYGYP	ASSIGSYGYT	0.9796	35265	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSIGSYGYP	ASSIGSYGYT	0.9796	90575	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSIGSYGYP	ASSVGSYGYT	0.9701	55318	GILGFVFTL	Matrix protein 1	Influenza A virus
+SAPVGVEQY	SAPVGVEQY	1.0000	141523	RIFTIGTVTLK	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVAGGPGDT	SVAGGPGDT	1.0000	179659	GILGFVFTL	Matrix protein 1	Influenza A virus
+AWSPSVQETQY	AWSPSVQETQY	1.0000	138934	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLDKGAGFGQPQH	ASSLLDKGAGFGQPQH	1.0000	100793	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGTALYEQY	ASSVGTALYEQY	1.0000	55319	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASGPASGSIYEQY	ASSPASGSIYEQY	0.9709	171642	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+AISDVGEATCEQY	AISDVGEATCEQY	1.0000	68509	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSAAGLAGEQF	ASSSAAGLAGEQF	1.0000	120220	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTRRYT	ASSLTRRYT	1.0000	43844	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+AISDHDRTLSYNEQF	AISDHDRTLSYNEQF	1.0000	68231	TLDSKTQSL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASDTFAGELF	ASDTFAGELF	1.0000	8788	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+SATLAGVQGNEQF	SATLAGVQGNEQF	1.0000	145823	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTSGRDANSPLH	ASSTSGRDANSPLH	1.0000	130080	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASQGLNTGELF	ASQGLNTGELF	1.0000	50218	KTWGQYWQV	Melanocyte protein Pmel 17 precursor	Homo sapiens (human)
+ASQGLNTGELF	ASQGLNTGELF	1.0000	72205	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASQGLNTGELF	AAQGLNTGELF	0.9866	67805	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASQGLNTGELF	ARQGLNTGELF	0.9742	69085	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	8614	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	30195	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	13498	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	170516	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	17655	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	13976	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASSIRSSYEQY	0.9712	35301	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASGIRSSYEQY	1.0000	13072	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASGLRSSYEQY	0.9825	15898	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASGIRSSYEQY	ASGIRSSYERY	0.9786	25286	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSHIGDEQY	ASSHIGDEQY	1.0000	86338	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AISTESGEQF	AISTESGEQF	1.0000	68922	VLAWLYAAV	nonstructural polyprotein pp1a	SARS coronavirus Urbani (SARS-CoV (Urbani strain))
+ASSILPSYEQY	ASSILPSYEQY	1.0000	91048	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQESRVNYGYT	ASSQESRVNYGYT	1.0000	118874	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVTGNTEAF	SVAGNTEAF	0.9717	14523	GILGFVFTL	Matrix protein 1	Influenza A virus
+SVTGNTEAF	SVTGNTEAF	1.0000	150954	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYPGYGLNTEAF	ASSFPGYGLNTEAF	0.9712	56640	AMFWSVPTV		
+ASSYPGYGLNTEAF	ASSYPGYGLNTEAF	1.0000	56860	AMFWSVPTV		
+AISVRSDEQF	AISVRSDEQF	1.0000	68953	SYQTQTNSPRRARSVA	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVEGFGRAGTGELF	SVEGFGRAGTGELF	1.0000	50074	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLGTGHSYEQY	ASSIGTGHSYEQY	0.9822	90804	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGHSYEQY	ASSLGTGHSYEQY	1.0000	95993	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTGHSYEQY	ASSVGTGHSYEQY	0.9780	127314	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFYPDEQY	ASSFYPDEQY	1.0000	87961	LITGRLQSLQTYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQAGTSYEQY	ASSQAGTSYEQY	1.0000	26870	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSQAGTSYEQY	ASSSAGTSYEQY	0.9706	26871	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSQAGTSYEQY	ASSQAGSSYEQY	0.9782	35871	DATYQRTRALVR	nucleoprotein	Influenza A virus
+ASSQAGTSYEQY	ASSQAGTAYEQY	0.9790	58059	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSLVGTGNQPQH	ASSIVGTGNQPQH	0.9827	29177	ASGNHAAGILTM,HGAGNHAAGILTL	orexin precursor [Homo sapiens],orexin precursor [Homo sapiens]	Homo sapiens (human),Homo sapiens (human)
+ASSYDEQF	ASSFDEQF	0.9718	83697	LPPAYTNSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYDEQF	ASSYDEQY	0.9878	133605	AYILFTRFFYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSVTEAF	ASSPSVTEQF	0.9757	114661	ILGLPTQTV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATGGGGYEQY	ASGGGGYEQY	0.9861	146883	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQQGQPQH	ASSQQGQPQH	1.0000	116970	FGEVFNATRFASVY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGTYEQY	ASSEGTYEQY	0.9755	25404	SIINFEKL	ovalbumin	Gallus gallus (chicken)
+ASSQGTYEQY	ASSQGSYEQY	0.9770	33556	LVVDFSQFSR	DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSQGTYEQY	ASSQGSYEQY	0.9770	116910	MIELSLIDFYLCFLAFLLFLVLIML,KQIYKTPPIKDF	ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSQGTYEQY	ASSQGTYEQY	1.0000	117451	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGTYEQY	ASSSQGTYEQY	0.9701	124564	FIAGLIAIV	Spike glycoprotein precursor	SARS-CoV1
+ASDSGKETQY	ASDSGEETQY	0.9702	148124	LITGRLQSLQTYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKTGEKLF	ASSSTGEKLF	0.9702	124850	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASQGGSTDTQY	ASSQGGSTDTQY	0.9868	117963	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSEYTGELF	ATSEFTGELF	0.9718	35345	RRSGPPGLQGRLQRLLQAS,AQPLPDCCRQKTCSC,RRSGPPGLQGRLQRLLQASGNHAAGIL	hypocretin (orexin) neuropeptide precursor [Homo sapiens],orexin precursor [Homo sapiens],hypocretin (orexin) neuropeptide precursor [Homo sapiens]	Homo sapiens (human),Homo sapiens (human),Homo sapiens (human)
+ASSWSGEQF	ASSWSGEQF	1.0000	133681	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGKETQY	ASSSTGGKETQY	0.9737	48955	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+ASSLD	ASSLE	0.9804	92576	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFTGSYEQY	ASSFTGAYEQY	0.9770	10488	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSFTGSYEQY	ASSFSGSYEQY	0.9774	82936	HTTDPSFLGRY,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSFTGSYEQY	ASSYTGSYEQY	0.9751	137267	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGRDYEQY	ASSLGRDYEQY	1.0000	54550	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLGRDYEQY	ASSMGRDYEQY	0.9790	109033	VYSSANNCTFEY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGYEQY	ASSGGGYEQY	1.0000	42631	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGGGYEQY	ASSGGGYEQY	1.0000	50225	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGGGYEQY	ASGGGGYEQY	0.9711	146883	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSADGYEQY	ASSSDGYEQY	0.9791	121100	VLWAHGFEL,GYQPYRVVVLSF	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSADGYEQY	ASKADGYEQY	0.9717	73200	GNYTVSCLPFTI	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYRGKQY	ASSYRGKQF	0.9887	26939	KAVYNFATC	Glycoprotein polyprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+ASSLATEETQY	ASGLATEETQY	0.9730	147100	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTIRTGTGELF	ASTVRTGTGELF	0.9904	134894	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKYIYEQY	ASSYIYEQY	0.9702	130479	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATRTGLSYEQY	ASRTGLSYEQY	0.9862	169468	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSTLEQY	ASSSTLEQY	0.9737	124650	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGDGYT	ASTGGGDGYT	0.9824	48417	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASGREETQY	ASGRQETQY	0.9739	147327	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTLYEQY	ASSSLYEQY	0.9794	126745	FLWLLWPVTLACFVLAAV,HTTDPSFLGRY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGGGEQF	ASSLGGGEAF	0.9746	97653	STDTGVEHVTFFIYNK	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGGEQF	ASSLGGGEQY	0.9901	36157	RALEYKNL	immediate-early IE3 protein	Murid betaherpesvirus 1 (Murine cytomegalovirus)
+ASSLGGGEQF	ASSLGGGEQY	0.9901	97657	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGGEQF	ASSLGGGEQF	1.0000	97656	ILHCANFNV,FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+SAGRDYGYT	ASGRDYGYT	0.9801	70751	SEVGPEHSLAEY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEDRATNEKLF	ASSEDRATNEKLF	1.0000	81187	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDGQHYGYT	ASSDGQHYGYT	1.0000	76357	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGNTEAF	ASSWGNTEAF	1.0000	132549	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGTDTQY	ASKGTDTQY	0.9715	36614	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGTDTQY	ASSSGTDTQY	0.9727	125195	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGTDTQY	ASSGSDTQY	0.9786	57167	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSGTDTQY	ASAGTDTQY	0.9822	69276	YFPLQSYGF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGTDTQY	ASSGTDTQY	1.0000	87602	LSPRWYFYYL,IMLIIFWFSL,SEHDYQIGGYTEKW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSGTDTQY	SGSGTDTQY	0.9719	142783	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGTDTQY	ATSGTDTQY	0.9858	146411	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVAGLAYEQY	ASSLLAGLAYEQY	0.9788	45253	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASRTFSNQPQH	ASRSFSNQPQH	0.9778	13138	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSPSSYEQY	ASSPSSYEQY	1.0000	110221	SPFHPLADNKFAL,MIELSLIDFYLCFLAFLLFLVLIML,GMEVTPSGTWLTY	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSPSSYEQY	ASSPASYEQY	0.9786	108977	FVCNLLLLFVTVYSHLLLV,SPFHPLADNKFAL	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSPSSYEQY	ASSPTSYEQY	0.9778	115374	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSSYEQY	ASTPSSYEQY	0.9822	135177	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPHGAYEQY	ASSPHGSYEQY	0.9747	112065	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSGTDYEQY	ASSSGTDYEQY	0.9729	125198	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGEQETQY	ASSLGQQETQY	0.9746	98759	IPRRNVATL,YFPLQSYGF	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGEQETQY	ASSLGQQETQY	0.9746	30895	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+SESGQETQY	ASESGQETQY	0.9724	146532	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ALGTNEKLF	SVGTNEKLF	0.9767	179208	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ATNGRDEQF	ATSGRDEQF	0.9702	146407	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSDSYGYT	ASSDSYGYT	0.9713	80702	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGQGYEQY	ASSGQGYEQY	1.0000	88477	NLNESLIDL	Spike glycoprotein precursor	SARS coronavirus BJ01
+ASSFSGTSEQF	ASSFSGSSEQY	0.9715	32783	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFSGTSEQF	ASSLSGTSEQF	0.9712	99390	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGYEQY	ASTGGYEQY	0.9799	19611	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSGGYEQY	ASSGGYEQY	1.0000	88680	IGAEHVNNSY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRDNEQF	ASSARDNEQF	0.9804	76395	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRDNEQF	ASSNRDNEQF	0.9710	109286	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGYEQY	ASSLSGYEQY	0.9780	100181	FLNGSCGSV,VLHSYFTSDYYQLY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGYEQY	ASSLSGYEQY	0.9780	19444	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLAGYEQY	ASSLAGYEQY	1.0000	21573	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLAGYEQY	ASSLAGYEQY	1.0000	89613	LSPRWYFYYL,FLNGSCGSV	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGYEQY	ASSMAGYEQY	0.9803	44033	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLAGYEQY	ASSLAGYEQF	0.9896	89612	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGYEQY	ARSLAGYEQY	0.9745	146730	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTGKYEQY	ATSGKYEQY	0.9760	148745	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGSYEQY	SASLAGGSYEQY	0.9864	23037	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLAGGSYEQY	ASSLAGGTYEQY	0.9774	170593	YVLDHLIVV,GLCTLVAML	Transcription activator BRLF1,Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ASSLAGGSYEQY	ASSLAGGTYEQY	0.9774	26705	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLAGGSYEQY	ASSLAGGSYEQY	1.0000	29656	ELAGIGILTV		
+ASSLAGGSYEQY	ASSLAGGSYEQY	1.0000	170589	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLAGGSYEQY	ASSLVGGSYEQY	0.9703	35911	RALEYKNL	immediate-early IE3 protein	Murid betaherpesvirus 1 (Murine cytomegalovirus)
+ASSLAGGSYEQY	ASSLVGGSYEQY	0.9703	102480	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGSYEQY	ASSLSGGSYEQY	0.9791	100261	HTTDPSFLGRY,WICLLQFAY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGGSYEQY	ASSLAGGAYEQY	0.9784	89369	SNEKQEILGTVSWNL,VQELYSPIFLIV,MIELSLIDFYLCFLAFLLFLVLIML	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLAGGSYEQY	ASSVAGGSYEQY	0.9799	129667	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGSYEQY	AGSLAGGSYEQY	0.9792	166580	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLAGGSYEQY	ASSLAGGSYEQF	0.9909	170588	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLAGGSYEQY	ASSLAGGSYKQY	0.9762	170591	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSWGGGNEQF	ASSWGGGNEQF	1.0000	133768	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGGGNEQF	ASSWGGGNEQY	0.9895	133769	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGGGNEQF	ATSWGGGNEQF	0.9847	138778	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGENTEAF	ASTRGENTEAF	0.9826	32037	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSRGENTEAF	ASSRGENTEAF	1.0000	122757	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGENTEAF	ARSRGENTEAF	0.9759	175929	YVLDHLIVV,GLCTLVAML	Transcription activator BRLF1,Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ASSLTSAYEQY	ASSLASAYEQY	0.9709	170682	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSLTSAYEQY	ASSLTSSYEQY	0.9801	104076	TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTSAYEQY	ASSLTSAYEQY	1.0000	105442	EILDITPCSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTSAYEQY	ASSLSSAYEQY	0.9805	105568	FPPTSFGPL,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLTSAYEQY	ASSLTASYEQY	0.9725	105827	VLHSYFTSDYYQLY,FLCLFLLPSLATV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSETGEAF	ASSETGEAF	0.9739	79781	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSATYNEQF	ASSATYNEQF	1.0000	76096	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSATYNEQF	ASSSTYNEQF	0.9802	124107	EEHVQIHTI,ILGLPTQTV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSATYNEQF	ASTASYNEQF	0.9713	137177	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSATYNEQF	ATSATYNEQF	0.9867	144084	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRAYEQY	ASSLRSYEQY	0.9779	99688	KAYNVTQAF	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLNNEQF	ASNLNNEQF	0.9731	73733	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLNNEQF	ASSLNNEQF	1.0000	100966	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGYEQY	ASSLGGYEQY	1.0000	21666	GLCTLVAML,LPRRSGAAGA,TPRVTGGGAM	Transcriptional regulator IE63 homolog,nucleoprotein,HCMVUL83	Human herpesvirus 4 (Epstein Barr virus),Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLGGYEQY	ASSLGGYEQY	1.0000	97800	ILHCANFNV,IMLIIFWFSL,MIELSLIDFYLCFLAFLLFLVLIML,RVGARKSAPL,STDTGVEHVTFFIYNK,NYIAQVDVVNFNL,GMEVTPSGTWLTY,SEVGPEHSLAEY,RIRGGDGKMK,FLWLLWPVTLACFVLAAV,VLWAHGFEL,YLNTLTLAV,FVDGVPFVV,HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF8 protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGGYEQY	ASSLGGYEQF	0.9892	97799	ILHCANFNV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGYEQY	ASNLGGYEQY	0.9719	73622	ILHCANFNV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGYEQY	ASSVGGYEQY	0.9770	127628	YLNTLTLAV,FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGGYEQY	ASSMGGYEQY	0.9792	149035	LKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLE	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVEGYEQY	ASSLVQGYEQY	0.9729	21847	GLCTLVAML,LPRRSGAAGA,TPRVTGGGAM	Transcriptional regulator IE63 homolog,nucleoprotein,HCMVUL83	Human herpesvirus 4 (Epstein Barr virus),Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLVEGYEQY	ASSLVEGFEQY	0.9739	103438	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVEGYEQY	ASSVIEGYEQY	0.9719	127892	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSYEQY	ASSSSYEQY	0.9749	124413	MGYINVFAFPFTIYSL,FLNGSCGSV,FLCLFLLPSLATV,SPFHPLADNKFAL,YEQYIKWPWYI,MIELSLIDFYLCFLAFLLFLVLIML,FLWLLWPVTLACFVLAAV	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSSYEQY	ASSSSYEQY	0.9749	22796	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSSYEQY	ASSSYEQY	1.0000	146154	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSYEQY	ASSSYEQY	1.0000	128677	SEYKGPITDVFYKENSY,YEQYIKWPWYI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSYEQY	ASSSYEQY	1.0000	19360	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSSYEQY	ASSSYEQY	1.0000	140565	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSYEQY	ASSAYEQY	0.9790	76425	APKEIIFLEGETL,MIELSLIDFYLCFLAFLLFLVLIML	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSYEQY	ASASYEQY	0.9809	142675	MPASWVMRI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQAGAGTGELF	ASSQAGSGTGELF	0.9790	114861	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVWGPQETQY	ASSLVWGPQETQY	1.0000	103503	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYSSTDTQY	ASSFSSTDTQY	0.9783	15368	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSYSSTDTQY	ASSYSSTDTQY	1.0000	136131	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSLGLDYEQY	ASSSMGLDYEQY	0.9789	126757	TSNQVAVLY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLASSYNEQF	1.0000	94033	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLATSYNEQF	0.9785	94372	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLASAYNEQF	0.9793	95319	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLSASYNEQF	0.9721	100559	VLPPLLTDEMIAQYT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLVSSYNEQF	0.9727	103041	VLPPLLTDEMIAQYT,FLPRVFSAV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLASSYNEQF	ASSLTSSYNEQF	0.9709	104077	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASSYNEQF	ASSLSSSYNEQF	0.9812	104510	FPPTSFGPL,VQELYSPIFLIV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ATPGANVLT	ASPGANVLT	0.9842	126756	MVMCGGSLYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSMLASNEQF	ASSLLASNEQF	0.9831	100685	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGRTGYEQY	ASSGRSGYEQY	0.9758	41888	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASRLAGGTDTQY	ASSLAGGTDTQY	0.9700	90009	GMEVTPSGTWLTY,QLMCQPILLL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASRLAGGTDTQY	ASRLAGGTDTQY	1.0000	72634	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSAGLAGGYEQY	ASSAGLAGGYEQY	0.9883	75251	LLLDDFVEII	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SGTGETDTQY	SGAGETDTQY	0.9727	145855	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSLGDNYGYT	ASSSLGDNYGYT	1.0000	125886	SYFIASFRLFA	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRSGTSGAYNEQF	ASSSGTSGAYNEQF	0.9712	125761	KLPDDFTGCV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGGQPQH	ASSAGGGQPQH	0.9811	57645	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGGQPQH	ASSSGGGQPQH	1.0000	58266	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGGQPQH	ASSSGGGQPQY	0.9852	58267	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASRHRGYT	SARHRGYT	0.9799	176001	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLRSSQPQH	ASSIRSSQPQH	0.9839	57068	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRSSQPQH	ASSMRSSQPQH	0.9821	17050	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLYSGSLYEQY	ASSLYSGSLYEQY	1.0000	107787	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYSGSLYEQY	ASSLFSGSLYEQY	0.9742	169930	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+SAGRISYNEQF	SSGRISYNEQF	0.9863	148097	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRGEPQH	ASSLRGQPQH	0.9726	100413	YLDAYNMMI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARRDAYEQY	SARRDSYEQY	0.9765	148206	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGYQPQH	ASSLGGYQPQH	0.9761	97882	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYDNEQY	ASSYDNEQF	0.9888	133714	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLATDTQY	ASSLSTDTQY	0.9800	104707	IMLIIFWFSL,MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLATDTQY	ASSLATDTQY	1.0000	170231	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLATDTQY	ASSLASDTQY	0.9791	95324	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLATDTQY	ASSSLATDTQY	0.9743	172185	YVLDHLIVV,GLCTLVAML	Transcription activator BRLF1,Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ASSPPGQGVSYEQY	ASSPPGQGISYEQY	0.9868	171220	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGRSYEQY	ASSLGRSYEQY	1.0000	96181	TLIGDCATV,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGRSYEQY	ASSLGRSYEQY	1.0000	31212	LVVDFSQFSR	DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSLGRSYEQY	ASSLGRAYEQY	0.9771	95746	KLSYGIATV,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGRSYEQY	ASSLGRTYEQY	0.9763	96278	KLNVGDYFV,TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+AKRRENTGELF	AVRRENTGELF	0.9709	138466	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSARGNQPQH	ASSARGNQPQH	0.9866	148713	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGGEQF	ASSFGGGEQF	1.0000	84279	FPPTSFGPL,MIELSLIDFYLCFLAFLLFLVLIML,IMLIIFWFSL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSFGGGEQF	ASSFGGGEQY	0.9898	84280	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGGEQF	ASSYGGGEQF	0.9742	133522	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRRSSYEQY	ASSRRASYEQY	0.9790	15351	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSRRSSYEQY	ASSQRSSYEQY	0.9721	35204	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSRRSSYEQY	ASSQRSSYEQY	0.9721	54706	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSRRSSYEQY	ASSKRSSYEQY	0.9812	41132	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSSGGYEQY	ASSSGGYEQY	1.0000	125065	ILHCANFNV,FLNGSCGSV,LSPRWYFYYL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSSGGYEQY	ASSSSGGYEQY	0.9739	58310	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGYEQY	ASSAGGYEQY	0.9801	75136	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGYEQY	ASSTGGYEQY	0.9788	174488	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSYTRAYEQY	ASSYTRSYEQY	0.9776	135814	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYTRAYEQY	ASSYSRAYEQY	0.9775	137136	AYKTFPPTEPK	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSILGQETQY	ASSLLGQETQY	0.9833	101552	LEPLVDLPI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPEKSYNEQF	ASSPERSYNEQF	0.9749	106108	LLLDDFVEII	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYYEQY	ASSLYYEQY	1.0000	44032	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLYYEQY	ASSLFYEQY	0.9726	93368	YEGNSPFHPL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPEGRYEQY	ASSPQGRYEQY	0.9709	110699	IPRRNVATL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRTEETQY	ASRSEETQY	0.9796	21563	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASRTEETQY	ASSRTEETQY	0.9711	45717	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLKGRSYEQY	ASSLQGRSYEQY	0.9718	100875	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTWGENTEAF	ASSWGENTEAF	0.9793	133659	RNPANNAAIVL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGGEQY	ASSWGGEQY	1.0000	19412	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSWGGEQY	ASSWGGEQY	1.0000	133759	GYQPYRVVVLSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGGEQY	ASTWGGEQY	0.9773	19405	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLEGGTYEQY	ASSLEGGTYEQY	1.0000	10004	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLEGGTYEQY	ASSLEGGSYEQY	0.9765	93094	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSNRNEKLF	ASSSSRNEKLF	0.9720	124076	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGGYEQY	SSRGGYEQY	0.9912	10542	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASRGGYEQY	ASRGGYEQY	1.0000	72048	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGGYEQY	SARGGYEQY	0.9820	142523	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLARDEQY	ASSIARDEQF	0.9734	14668	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLARDEQY	ASSLARDEQY	1.0000	19230	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLARDEQY	ASSLARDEQY	1.0000	18290	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLARDEQY	ASSVARDEQY	0.9788	19231	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLARDEQY	ASSLSRDEQY	0.9788	105032	GDAALALLLLDRLNQL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLHEQF	ASSIHEQF	0.9801	41459	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLHEQF	ASSVHEQF	0.9754	127781	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSEGEETQY	ASSSDGEETQY	0.9732	120986	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGGSNQPQH	ASRGGSNQPQH	1.0000	147262	KAYNVTQAF	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADEQF	ASSLADEQF	1.0000	89680	YLNTLTLAV,SELVIGAVIL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLADEQF	ASSLADQQF	0.9786	53550	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLADEQF	ASSLADEAF	0.9735	89679	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADEQF	ASSLADEQY	0.9895	170485	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLADEQF	ASSVADEQF	0.9784	129435	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPREEAF	ASSPREEAF	1.0000	47632	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSRDGTDTQY	ASSRDGTDTQY	1.0000	121856	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRDGTDTQY	ASSSRDGTDTQY	0.9701	124907	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ARGGGYEQY	ASGGGYEQY	0.9711	70149	FPPTSFGPL,FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLADYGYT	ASSLSDYGYT	0.9775	99267	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDVAGSTDTQY	ASSDLAGSTDTQY	0.9785	75651	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASSGGAKNIQY	ASSTGGAKNIQY	0.9709	129788	NPLLYDANYFLCW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDAYEQY	ASSDSYEQY	0.9779	80701	FGEVFNATRFASVY,FLNGSCGSV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSDAYEQY	ASSDSYEQY	0.9779	28787	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSDAYEQY	ASSDAYEQY	1.0000	74871	KLPDDFTGCV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGQNNEQF	ASGENNEQF	0.9748	70278	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGQNNEQF	ASGENNEQF	0.9748	146772	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGNQPQH	ASSSGGNQPQH	1.0000	120681	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGNQPQH	ASNSGGNQPQH	0.9741	148818	LCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSS	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSADGNEQF	ASSVDGNEQF	0.9708	10379	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSADGNEQF	ASSSDGNEQF	0.9802	120992	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTREGQETQY	ATSREGQETQY	0.9780	137956	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTREGQETQY	ASTRQGQETQY	0.9745	173339	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSFRTYEQY	ASSFRTYEQY	1.0000	81947	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVVGEGDTQY	ASSLVGEGDTQY	0.9790	103870	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVVGEGDTQY	ASSVVGEGDTQY	1.0000	132072	FLPFFSNVTWFHAI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHRASYEQY	ASSHRSSYEQY	0.9776	86371	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSYSAYEQY	ASSYSAYEQY	0.9869	131654	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDGTDTQY	ASSEGTDTQY	0.9727	11201	FLYNLLTRV,NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSDGTDTQY	ASTDGTDTQY	0.9820	137291	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGGGTDTQY	ASSGGGTDTQY	0.9734	87569	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGGGTDTQY	SVGGGGTDTQY	0.9750	151491	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGTEAF	ASSLGTEAF	1.0000	24069	TPRVTGGGAM,LPRRSGAAGA	HCMVUL83,nucleoprotein	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus
+ASSLGTEAF	ASSLGTEAF	1.0000	97331	APKEIIFLEGETL,MIELSLIDFYLCFLAFLLFLVLIML,MGYINVFAFPFTIYSL,SEPVLKGVKL,FLWLLWPVTLACFVLAAV,GYQPYRVVVLSF,RQLLFVVEV,VYYPDKVFRSSVLH	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGTEAF	ASSLGTEVF	0.9799	18977	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLGTEAF	ASSSLGTEAF	0.9721	21291	TPRVTGGGAM,LPRRSGAAGA,VTEHDTLLY	HCMVUL83,nucleoprotein,DNA processivity factor	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLGTEAF	ASSLGSEAF	0.9793	96396	GLEAPFLYLYALVYFLQSINFVRIIMR,APKEIIFLEGETL,VLWAHGFEL	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGTEAF	ASSMGTEAF	0.9803	109143	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTLGLNTEAF	ASSLGLNTEAF	0.9832	97801	MIELSLIDFYLCFLAFLLFLVLIML,AYSNNSIAIPTNFTISV,HLVDFQVTI,KLPDDFTGCV,ITEEVGHTDLMAAY	ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF6 protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+AISRNNEQF	ASSRNNEQF	0.9701	58415	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASKLGETQY	ASSLGETQY	0.9714	36216	LLQTGIHVRVSQPSL	HCMVUL83	Human herpesvirus 5 strain Towne (Human cytomegalovirus (strain Towne))
+ASKLGETQY	ASSLGETQY	0.9714	93391	VQPTESIVRFPNITNLCPF,APKEIIFLEGETL,VLHSYFTSDYYQLY,FLCLFLLPSLATV,FLWLLWPVTLACFVLAAV,FVCNLLLLFVTVYSHLLLV,NPLLYDANYFLCW,MIELSLIDFYLCFLAFLLFLVLIML,AEIRASANLAATK,MGYINVFAFPFTIYSL,RARSVSPKLFIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASKLGETQY	ASRLGETQY	0.9798	21513	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASKLGETQY	ASRLGETQY	0.9798	72064	SEYKGPITDVFYKENSY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASDRNEQF	ASERNEQF	0.9722	70011	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASDRNEQF	ASDRNEQF	1.0000	167457	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ATSDRANTGELF	ASTDRANTGELF	0.9766	137401	QELIRQGTDYKHW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGSYEQY	ASQGSYEQY	0.9701	72223	FLPFFSNVTWFHAI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPPGQGNQPQH	ASSPPGQGNQPQH	1.0000	112161	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGGGYT	ASNRGGGYT	0.9721	74542	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRGEQF	ASSLRGEQY	0.9888	100090	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPGQGNQPQH	ASTPGQGNQPQH	0.9808	134371	KLWAQCVQL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSGAYEQY	ASSSGAYEQY	0.9871	120469	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSGAYEQY	ASSAGAYEQY	0.9711	76442	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSGAYEQY	ASSTGAYEQY	0.9750	129682	ALRKVPTDNYITTY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQDQGSYEQY	ASSQEQGSYEQY	0.9706	118208	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTSGRGYNEQF	ASSPSSGRGYNEQF	0.9757	109901	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTSGQETQY	ASSTGQETQY	0.9769	15826	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASTSGQETQY	ASSTGQETQY	0.9769	147938	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTSGQETQY	ASTTGQETQY	0.9803	133839	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLDQETQY	ASSLIDQETQY	0.9818	44896	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSQGVETQY	ASSEGVETQY	0.9767	78958	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLARDSYEQY	ASSLSRDSYEQY	0.9787	105128	SELVIGAVIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLARDSYEQY	ASSLARDSYEQY	1.0000	94971	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGQGSEAF	ASSLGQGAEAF	0.9807	97364	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGQGSEAF	ASSLGQGSEAF	1.0000	98342	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGQGSEAF	ASSLGQGTEAF	0.9798	98364	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVLGGSYNEQF	ASSLLGGSYNEQF	0.9791	169890	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASTEGVYGYT	ASSEGIYGYT	0.9700	26895	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASTEGVYGYT	ASSEGVYGYT	0.9809	79057	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARDNEQF	ASRDNEQF	0.9823	71909	VQPTESIVRFPNITNLCPF,FVDGVPFVV,MIELSLIDFYLCFLAFLLFLVLIML	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+SARDNEQF	SGRDNEQF	0.9731	148896	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSQAEQF	ASSSRAEQF	0.9703	49330	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSSQAEQF	ASSSQAEQY	0.9907	124147	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSQAEQF	ASSEQAEQF	0.9714	168577	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+SQGGDYEQY	SAGGDYEQY	0.9700	150552	MPASWVMRI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGQPQH	ASSGQPQH	1.0000	11727	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+SASGGGEKLF	ASAGGGEKLF	0.9797	69237	AYSNNSIAIPTNFTISV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGTGSSYEQY	ASSEGTGSAYEQY	0.9791	31684	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSEGTGSSYEQY	ASSSGTGSSYEQY	0.9720	125527	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGTGSSYEQY	ATSEGSGSSYEQY	0.9714	140136	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGSYNEQF	ASSSGSYNEQF	0.9800	125098	VLPPLLTDEMIAQYT,WTAGAAAYYVGY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTGSYNEQF	ASSVGSYNEQF	0.9702	127111	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGSYNEQF	ASTSGSYNEQF	0.9744	134959	VLPPLLTDEMIAQYT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQAPGYEQY	ASSQAPGYEQY	1.0000	115296	NYNYLYRLFRK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGSYEQY	ASSSGGSYEQY	1.0000	58270	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGSYEQY	ASSSGGAYEQF	0.9707	58264	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGSYEQY	ASSSGGAYEQY	0.9791	58265	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSGGSYEQY	ASSAGGSYEQY	0.9817	75128	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGSYEQY	ASSGGSYEQY	0.9726	88337	MIELSLIDFYLCFLAFLLFLVLIML,VLWAHGFEL,HTTDPSFLGRY	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSSGGSYEQY	ASSTGGSYEQY	0.9804	129894	NPLLYDANYFLCW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFRGTETQY	ASSFRGTETQY	1.0000	83042	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGRETQY	ASEGRETQY	0.9701	146515	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPGHEQY	ASSPGHEQY	1.0000	106895	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGRDTYEQY	ASSGRDSYEQY	0.9759	88702	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ARLASYNEQF	SARLASYNEQF	0.9703	147405	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGTEAF	ASSRGTEAF	1.0000	120167	HTTDPSFLGRY,LLLDDFVEII,APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSRGTEAF	ASSRGTEAF	1.0000	36234	LLQTGIHVRVSQPSL	HCMVUL83	Human herpesvirus 5 strain Towne (Human cytomegalovirus (strain Towne))
+ASSRGTEAF	ASSKGTEAF	0.9785	41030	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSRGTEAF	ASSRGSEAF	0.9790	120144	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGTEAF	ASTRGTEAF	0.9811	134379	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRAAYEQY	ASRASYEQY	0.9780	11631	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSRTETQY	ASSRTDTQY	0.9720	120853	TFYLTNDVSFL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASATGYGYT	ASSTGYGYT	0.9812	16004	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLAEGEAF	ASSLAEGEAF	1.0000	31417	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFYGTGELF	ASSYYGTGELF	0.9731	136635	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGLTDTQY	ASSFGGITDTQY	0.9791	84488	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGLTDTQY	ASSFGGLTDTQY	1.0000	84505	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGLTDTQY	ASSFGGVTDTQY	0.9742	84931	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTTGAGYT	ASSATGAGYT	0.9723	32331	LVVDFSQFSR	DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSIGGGGSTDTQY	ASSLGGGGSTDTQY	0.9846	97760	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLKADTQY	ASSLRADTQY	0.9779	99315	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGYNEQF	ASSGGYNEQF	1.0000	88683	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGYNEQF	SVSGGYNEQF	0.9707	150608	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTTGAAETQY	ASSLTAGAAETQY	0.9711	43399	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSVVGGGTDTQY	ASSLVGGGTDTQY	0.9800	104086	MIELSLIDFYLCFLAFLLFLVLIML,TLIGDCATV	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSVVGGGTDTQY	ASSVVGGGTDTQY	1.0000	48578	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSVVGGGTDTQY	ASSVAGGGTDTQY	0.9720	129652	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGGEGYEQY	ASSQGGQGYEQY	0.9725	24013	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARDSGNTIY	ASSVRDSGNTIY	0.9728	16688	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLGGTGELF	ASSLGGTGELF	1.0000	97586	KAYNVTQAF,KLSYGIATV,YEQYIKWPWYI,IPRRNVATL,FLPRVFSAV	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGGTGELF	ASSVGGTGELF	0.9791	127526	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATGSGELF	ASGTGELF	0.9741	166058	GLCTLVAML,YVLDHLIVV	Transcriptional regulator IE63 homolog,Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ATGSGELF	ASGTGELF	0.9741	167583	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ATGSGELF	ATGTGELF	0.9768	140367	MGYINVFAFPFTIYSL,GLEAPFLYLYALVYFLQSINFVRIIMR	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSVTGDTEAF	ASSITGDTEAF	0.9906	40448	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSVTGDTEAF	ASSLTGDTEAF	0.9794	104648	FLWLLWPVTLACFVLAAV,MGYINVFAFPFTIYSL,SNEKQEILGTVSWNL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSVTGDTEAF	ASSATGDTEAF	0.9737	75736	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGSYEQF	ASSRGSYEQY	0.9897	120159	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLMDRETQY	ASSLLDRETQY	0.9792	100804	SELVIGAVIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVRGGTYNEQF	ASSVRGGSYNEQF	0.9743	127803	LEPLVDLPI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARELASSYNEQF	SARDLASSYNEQF	0.9741	9329	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSVGDTYEQY	ASSLGDTYEQY	0.9774	93823	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASNQAYEQY	ASSQAYEQY	0.9725	115876	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAETQY	SVETQY	0.9719	178981	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSSGNEAF	ASSSGSEAF	0.9717	126694	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHGQNTGELF	ASSHGQNTGELF	1.0000	85999	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGERNQPQH	ASSQGQRNQPQH	0.9722	116362	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYSGNTIY	ASSSYSGNTIY	0.9716	12984	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSYSGNTIY	ASSYSGNTLY	0.9880	17769	SNVKNLYEKVRSQLKNNAK	hemagglutinin	Influenza A virus (A/Luxembourg/46/2009(H1N1))
+ASSYSGNTIY	ASSFSGNTIY	0.9750	82717	LSPRWYFYYL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGGEQY	ASSLGGGEQY	0.9787	36157	RALEYKNL	immediate-early IE3 protein	Murid betaherpesvirus 1 (Murine cytomegalovirus)
+ASSVGGGEQY	ASSLGGGEQY	0.9787	97657	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGGEQY	ASSVGGGEQY	1.0000	127189	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPGQTYEQY	ASSPGQTYEQY	1.0000	106097	GLEAPFLYLYALVYFLQSINFVRIIMR,GYQPYRVVVLSF	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSPGQTYEQY	ASSPGQTYEQY	1.0000	18793	LSLRNPILV	Protein PB1-F2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSPGQTYEQY	ASSPGQSYEQY	0.9755	106091	VQPTESIVRFPNITNLCPF,MVMCGGSLYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGQGNYEQY	ASSLGQGNYEQY	1.0000	98139	TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGTSGREQF	ASSSGTTGREQY	0.9712	125966	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVADTQY	ASSVADTQY	1.0000	129445	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVADTQY	ASSLADTQY	0.9785	89893	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVADTQY	ASSVSDTQY	0.9795	127238	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVADTQY	ASSTADTQY	0.9712	129019	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRRRDSSYNEQF	ASSRRDSSYNEQF	0.9714	149686	PTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGINTGELF	ASSLGLNTGELF	0.9803	97802	AYSNNSIAIPTNFTISV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDQDTQY	ASSDQETQY	0.9721	80888	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKEGSYGYT	ASSEGSYGYT	0.9727	53345	GILGFVFTL	Matrix protein 1	Influenza A virus
+SASGPYEQY	SLSGPYEQY	0.9706	11971	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+SASGPYEQY	ASSGPYEQY	0.9822	147604	ALSKGVHFV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASGPYEQY	ASSGPYEQY	0.9822	88151	MGYINVFAFPFTIYSL,KLSYGIATV	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+SASGPYEQY	ATSGPYEQY	0.9726	144086	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATRGGNTEAF	SARGGNTEAF	0.9757	56034	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+ATRGGNTEAF	ASRGGNTEAF	0.9856	71930	GLEAPFLYLYALVYFLQSINFVRIIMR,FLWLLWPVTLACFVLAAV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASTGEKLF	ASSGEKLF	0.9795	87106	FIAGLIAIV	Spike glycoprotein precursor	SARS-CoV1
+ASSDTDSYEQY	ASSDTDSYEQY	1.0000	80798	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSPVSYEQY	ASSSPVSYEQY	0.9732	124125	SELVIGAVIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDLNTGELF	ASSLELNTGELF	0.9710	93973	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDLNTGELF	ASSLDVNTGELF	0.9755	95075	MLWCKDGHV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGAF	ASSQGAI	0.9819	118580	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGAF	ASSQGAL	0.9841	118582	IPIGAGICASY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKGGYEQY	ASSQGGYEQY	0.9727	116445	FLNGSCGSV,MIELSLIDFYLCFLAFLLFLVLIML,MGYINVFAFPFTIYSL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSKGGYEQY	ASSRGGYEQY	0.9775	123080	YEDFLEYHDVRVVL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGNTEAF	ASSWGNTEAF	1.0000	132549	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDEQY	ASSLDEQY	1.0000	25676	SIINFEKL	ovalbumin	Gallus gallus (chicken)
+ASSLDEQY	ASSLDEQY	1.0000	95232	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVQDYGYT	ASSLQDYGYT	0.9763	176180	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ATSRGGLETQY	ASSRGGLETQY	0.9866	122972	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLEGTEAF	ASSLEGSEAF	0.9798	93514	RSVASQSIIAYTMSL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLEGTEAF	ASSLEGTEAF	1.0000	93534	TVLSFCAFAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRGGNTEAF	ASSVRGGNTEAF	0.9788	127799	SEISMDNSPNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSAGSSTDTQY	ASSAGSSTDTQY	0.9896	76025	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSAGSSTDTQY	ASSAGASTDTQY	0.9724	76440	KAYNVTQAF	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASGYGYT	ASSGYGYT	0.9828	88526	KAYNVTQAF,MGYINVFAFPFTIYSL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+SASGYGYT	SATGYGYT	0.9788	145713	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTQAANYGYT	ATSQAANYGYT	0.9783	58807	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSTGTRTDTQY	ASSSGTRTDTQY	0.9818	125754	APHGVVFLHVTYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKGREQY	ASSEGREQY	0.9710	18823	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSKGREQY	ASSQGREQY	0.9732	19596	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSLGGNQPQH	ASSLGGNQPQH	1.0000	98473	FVCNLLLLFVTVYSHLLLV,FVDGVPFVV,KAYNVTQAF,VQELYSPIFLIV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGGNQPQH	ASSLGGNQPQH	1.0000	23983	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLGGNQPQH	ASKLGGNQPQH	0.9722	73911	FTISVTTEIL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGNQPQH	ASSIGGNQPQH	0.9815	86538	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGNQPQH	ASTLGGNQPQH	0.9817	134440	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTRLTGELF	ASSSRLTGELF	0.9807	11153	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSMGATEAF	ASSIGATEAF	0.9758	33006	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSMGATEAF	ASSVGATEAF	0.9740	128508	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGETGNTIY	SARGETGNTIY	0.9833	142159	FTEQPIDLVPNQPY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRLAAGGDEQY	ASSLAAGGDEQY	0.9712	89356	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPISGEQY	ASSPLSGEQY	0.9804	31433	STLPETAVVRR,KTAYSHLSTSK	precore/core protein,polymerase	Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV))
+AMGADTQY	SLGADTQY	0.9762	142911	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARRGTEAF	ASRRGTEAF	0.9839	77947	AYSNNSIAIPTNFTISV,LLLDDFVEII	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+SARRGTEAF	SARRGTEAF	1.0000	146489	YIFFASFYY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVRGSDTQY	ASSIRGSDTQY	0.9903	15717	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSVRGSDTQY	ASSLRGSDTQY	0.9788	43451	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLGGNQPQH	ASSLGGNQPQH	1.0000	98473	FVCNLLLLFVTVYSHLLLV,FVDGVPFVV,KAYNVTQAF,VQELYSPIFLIV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGGNQPQH	ASSLGGNQPQH	1.0000	23983	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLGGNQPQH	ASKLGGNQPQH	0.9722	73911	FTISVTTEIL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGNQPQH	ASSIGGNQPQH	0.9815	86538	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGNQPQH	ASTLGGNQPQH	0.9817	134440	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAREGSYEQY	SAREGSYEQY	1.0000	13292	GILGFVFTL	Matrix protein 1	Influenza A virus
+SAREGSYEQY	SARQGSYEQY	0.9746	148091	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTSGDEQY	ASSSTGDEQY	0.9772	124838	RISNCVADY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASAGSAGANVLT	ASSGAAGANVLT	0.9770	88093	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSALGLNTEAF	ASSAMGLNTEAF	0.9804	75495	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGHEQF	ASRGHEQF	1.0000	72049	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGEGGELF	ASSGEGGELF	1.0000	88772	FLCLFLLPSLATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASISGSTDTQY	ASVTGSTDTQY	0.9745	25957	ELKRKMIYM	UL123; IE1	Human herpesvirus 5 (Human cytomegalovirus)
+ASISGSTDTQY	ASTSGSTDTQY	0.9737	134958	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASISGSTDTQY	SAVSGSTDTQY	0.9794	145174	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSGSEQF	ASSPSGAEQY	0.9715	109326	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSGSEQF	ASSPTGSEQF	0.9778	115798	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPGVYNEQF	ASSPGLYNEQF	0.9720	54992	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPGVYNEQF	ASSPGVYNEQF	1.0000	111849	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFIGDEQF	ASSFLGDEQF	0.9795	28883	NLNCCSVPV		
+ASSFIGDEQF	ASTFVGDEQF	0.9701	136411	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQEDRSTDTQY	ASSQEDRSTDTQY	1.0000	23192	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSYQETQY	ASSFQETQY	0.9741	82139	MGYINVFAFPFTIYSL,FLNGSCGSV	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSYQETQY	ASSSYQETQY	0.9709	128892	TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYQETQY	ASSYQETQY	1.0000	131184	MGYINVFAFPFTIYSL,HTTDPSFLGRY	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSVERDEQF	ASSLERDEQF	0.9786	10880	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSDDSDAYEQY	ASSDDSDSYEQY	0.9792	74981	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASLAKSSYNEQF	ASLAESSYNEQF	0.9718	74693	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRAGRETQY	ASSRSGRETQY	0.9790	15850	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSGKMNTEAF	ASSGQMNTEAF	0.9718	43033	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPQTYEQY	ASSPQSYEQY	0.9763	109403	SPFHPLADNKFAL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SSTGELF	ASSGELF	0.9706	50179	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+SSTGELF	SNTGELF	0.9729	67883	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SSTGELF	ASTGELF	0.9898	68304	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVPGREQY	ASSLPGREQY	0.9758	102380	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKVQGSNEQF	ASSQVQGSNEQF	0.9763	121837	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSALAGSYEQY	ASALAGSYEQY	0.9719	69539	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSALAGSYEQY	ASSGLAGSYEQY	0.9705	87255	SELVIGAVIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGRREF	ASSQGRRAF	0.9732	116584	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSIDNQPQH	ASSLDNQPQH	0.9811	23701	TPRVTGGGAM,LPRRSGAAGA	HCMVUL83,nucleoprotein	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus
+ASKQAGEQY	ASSQAGEQY	0.9731	28386	LLAILTYYV		
+ASSQQETQY	ASSQQETQY	1.0000	45609	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSQQETQY	ASSRQETQY	0.9701	119844	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQQETQY	ASSSQETQY	0.9718	124253	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AKGTYNEQF	ASGTYNEQF	0.9757	147463	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AKGTYNEQF	ASGTYNEQF	0.9757	145868	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSILAAQETQY	ASSILAVQETQY	0.9714	90818	VLHSYFTSDYYQLY	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQTGEKLF	ASSQTGEKAF	0.9759	122670	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGVSYEQY	ASNTGGVSYEQY	0.9750	71193	YIFFASFYY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGVSYEQY	ASSSGGVSYEQY	0.9806	125058	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSELTGSGETQY	ASSSLTGSGETQY	0.9724	172130	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSELTGSGETQY	ASSQLTGSGETQY	0.9789	172772	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSDGETQY	ASSDGDTQY	0.9709	1756	YAVANYFFL	type II rhoptry protein 5	Toxoplasma gondii
+ASSDGETQY	ASSDGETQY	1.0000	76107	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDGETQY	ASSEGETQY	0.9717	79028	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAVETQY	ASSSVETQY	0.9816	124431	LPPAYTNSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGQGEQY	ASSLGQGEQY	0.9781	26348	PKYVKQNTLKLAT	Hemagglutinin precursor	Influenza A virus
+ASSSLAGVGETQY	ASSELAGVGETQY	0.9718	18215	RAKFKQLL	Trans-activator protein BZLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSHQGSYEQY	ASSHQGSYEQY	1.0000	23365	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSQPSSGNEQF	ASSQPSSGNEQF	1.0000	116758	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGGSYEQY	ASKGGSYEQY	0.9806	73560	MPASWVMRI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRGGSYEQY	SARGGSYEQY	0.9835	142513	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVRGGSYNEQF	ASSARGGSYNEQF	0.9717	74837	AYKTFPPTEPK	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVRGGSYNEQF	ASSVRGGSYNEQF	1.0000	127803	LEPLVDLPI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGIYEQF	ASSGVYEQY	0.9772	147704	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGRMNTEAF	ASSEGRMNTEAF	1.0000	78493	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSGDTGELF	ASSLSGDTGELF	1.0000	10987	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLSGDTGELF	ASSLTGDTGELF	0.9786	104649	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSQETQY	ASSSQETQY	0.9785	124253	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSQETQY	ASSSTQETQY	0.9815	149670	ARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGTNQPQH	ASSQGSNQPQH	0.9764	39744	RAKFKQLL	Trans-activator protein BZLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLARDSSYEQY	ASSLARDSSYEQY	1.0000	94969	KPFERDISTEIY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLARDSSYEQY	ASSLSRDSSYEQY	0.9799	105126	SELVIGAVIL,QECVRGTTVL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASTTYEQY	ASSTTYEQY	0.9701	129096	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGSPLH	ASSGGTPLH	0.9775	88463	FVDGVPFVV,YEQYIKWPWYI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSPGKQETQY	ASSPGQQETQY	0.9705	106084	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGPHEQF	ASSSGPHEAF	0.9718	125841	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKVGHEQF	ASSQVGHEQF	0.9726	25753	FPTKDVAL	65 kDa lower matrix phosphoprotein	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSRQGSNQPQH	ASSQQGSNQPQH	0.9701	116972	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRQGSNQPQH	ASSSRQGSNQPQH	0.9706	124053	KLPDDFTGCV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRGGQETQY	ASSSRGGQETQY	1.0000	55768	RAKFKQLL,KLGGALQAK	Trans-activator protein BZLF1,55 kDa immediate-early protein 1	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLRASYEQY	ASALRSSYEQY	0.9711	13388	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSIRASYEQY	0.9836	57178	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSIRASYEQY	0.9836	27387	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSLRSSYEQY	0.9787	99685	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRASYEQY	ASSLRSSYEQY	0.9787	35326	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSMRASYEQY	0.9817	44262	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSVRASYEQY	0.9798	15652	GILGFVFTL,FLPFFSNVTWFHAI	Matrix protein 1,surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	Influenza A virus,SARS-CoV2
+ASSLRASYEQY	ASSIRASYEQF	0.9748	17108	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLRASYEQY	ASSLRATYEQY	0.9780	24324	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLRASYEQY	ASSLRATYEQY	0.9780	149185	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRASYEQY	ASSLRASYEQY	1.0000	54276	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSQVDTEAF	ASSSQVDTEAF	0.9728	124792	TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPGHEQY	ASSPGHEQY	1.0000	106895	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRQGTYEQY	ASRQGSYEQY	0.9758	77374	CMTSCCSCLK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRQGTYEQY	ATRQGTYEQY	0.9851	146292	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAQGSTDTQY	ASSSQGSTDTQY	0.9828	12719	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSYSGGRATDTQY	ASSYSGGRSTDTQY	0.9765	55504	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSTPGGETQY	ASSSPGGETQY	0.9790	27932	ELAGIGILTV		
+ASSLEGLYNEQF	ASSLEGLYNEQF	1.0000	23841	TPRVTGGGAM,LPRRSGAAGA	HCMVUL83,nucleoprotein	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus
+ASSFRGAGANVLT	ASSFRGAGANVLT	1.0000	82811	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRGGLETQY	ASSRGGLETQY	1.0000	122972	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGGDQETQY	ASSQGGDQETQY	1.0000	119239	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGQETQY	ASSLVGGQETQY	0.9707	44237	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLAGGQETQY	ASSLVGGQETQY	0.9707	25970	VSFIEFVGW	EBNA-3B nuclear protein	Human herpesvirus 4 (Epstein Barr virus)
+ASSLAGGQETQY	ASLAGGQETQY	0.9702	31117	LVVDFSQFSR	DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSLAGGQETQY	SSLAGGQETQY	0.9738	49997	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLAGGQETQY	ASSLAGGKETQY	0.9728	89582	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGQETQY	ASSLSGGQETQY	0.9795	100246	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGGQETQY	ASRLAGGQETQY	0.9702	147359	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPRNTEAF	ASSPRNTEVF	0.9800	25343	SYIGSINNI,SIINFEKL	Matrix M2,ovalbumin	Human respiratory syncytial virus A2 (Human respiratory syncytial virus (strain A2)),Gallus gallus (chicken)
+ASSHGQGAYEQY	ASSHGQGAYEQY	1.0000	1314	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSHGQGAYEQY	ASSHGQGSYEQY	0.9763	85906	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSTEAF	ASSPTTEAF	0.9785	115469	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSTEAF	ASSPSTEAF	1.0000	116191	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSTEAF	ASSSPSTEAF	0.9746	123899	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASQNEQY	SAQNEQF	0.9700	141866	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQDGNTEAF	ASSEDGNTEAF	0.9768	16621	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSQDGNTEAF	ASSQEGNTEAF	0.9707	118403	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGPYNEQF	ASSLGPYNEQF	1.0000	98821	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGSSEAF	ASSASSEAF	0.9724	75514	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGSSEAF	ASSSGSEAF	0.9735	126694	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAGVYNEQF	ASSVGVYNEQF	0.9711	56845	YLEPGPVTV		
+ASSAGVYNEQF	ASSAGLYNEQF	0.9748	75462	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAGVYNEQF	ASSSGVYNEQF	0.9801	147930	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGYNEQF	ASSGYNEQF	1.0000	88614	FLWLLWPVTLACFVLAAV,AYILFTRFFYV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSGYNEQF	SASGYNEQF	0.9832	30698	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSGYNEQF	ASAGYNEQF	0.9803	67923	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGYNEQF	ASTGYNEQF	0.9794	137103	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGYNEQF	ASSGFNEQF	0.9708	166095	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGTETQY	ASSLGTDTQY	0.9721	31985	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSLGTETQY	ASSLGTDTQY	0.9721	97245	GLEAPFLYLYALVYFLQSINFVRIIMR,SELVIGAVIL,VQELYSPIFLIV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGTETQY	ASSSLGTETQY	0.9722	126096	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSREIYEQY	ASSREIYEQY	1.0000	32446	LVVDFSQFSR	DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSRTATNEKLF	ASSRTATNEKLF	1.0000	31451	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSSAAGSYEQY	ASSAAGSYEQY	0.9763	77533	APKEIIFLEGETL,FTYASALWEI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSTGNSEAF	ASSSSGNTEAF	0.9722	123407	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSTGNSEAF	ASSSTGNTEAF	0.9817	123423	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSGGIPYNEQF	ASSGGVPYNEQF	0.9728	57855	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSTPEGNIQY	ASSTPQGNIQY	0.9713	36729	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLTGNTEAF	ASSLTGNTEAF	1.0000	32088	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSLTGNTEAF	ASSLTGNTEAF	1.0000	105528	KLNDLCFTNVYADSFVIR,FLWLLWPVTLACFVLAAV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLTGNTEAF	ASSITGNTEAF	0.9835	40459	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLTGNTEAF	ASSLSGNTEAF	0.9792	100575	YEDFLEYHDVRVVL,YIFFASFYY,FVDGVPFVV,VQELYSPIFLIV,APKEIIFLEGETL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLTGNTEAF	ASSSLTGNTEAF	0.9728	126529	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTGNTEAF	ASSVTGNTEAF	0.9797	128259	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRDRAYEQY	ASSRDRSYEQY	0.9774	18745	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSRDRAYEQY	ATSRDRAYEQY	0.9866	138957	MGYINVFAFPFTIYSL,MIELSLIDFYLCFLAFLLFLVLIML	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSRGGYEQY	ATSRGGYEQF	0.9748	51574	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSRGGYEQY	ASSRGGYEQY	1.0000	123080	YEDFLEYHDVRVVL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGSYEQY	ASSWGSYEQY	1.0000	132907	FLNGSCGSV,IMLIIFWFSL,HLRIAGHHLGR	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSWGSYEQY	ASSWGTYEQY	0.9734	48174	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSWGSYEQY	ASSWGAYEQY	0.9743	133646	FLNGSCGSV,MGYINVFAFPFTIYSL,FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+SARRGAEQF	SARRGAEQY	0.9892	148213	KLNVGDYFV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYRRVNTEAF	ASSYRRLNTEAF	0.9747	16591	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASLDRGTGELF	SALDRGTGELF	0.9826	176727	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASLDRGTGELF	SALDRGTGELF	0.9826	176726	YVLDHLIVV,GLCTLVAML	Transcription activator BRLF1,Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ASSLRVYEQY	ASSLRIYEQY	0.9889	100633	ATEGALNTPKDHI	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAGANTEAF	SLGANTEAF	0.9739	68639	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAGANTEAF	AAGANTEAF	0.9922	166250	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+SAGANTEAF	SVGANTEAF	0.9801	175485	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSNGGAYEQY	ASSSGGAYEQY	0.9710	58265	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSFRGAYEQY	ASSFRGSYEQY	0.9762	32078	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFRGAYEQY	ASSFRGSYEQY	0.9762	148841	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSDSYEQY	ASSSDSYEQY	1.0000	119801	VQELYSPIFLIV,FLNGSCGSV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSDSYEQY	ASSSDSYEQY	1.0000	32535	LVVDFSQFSR,STLPETAVVRR	DNA polymerase,precore/core protein	Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV))
+ASSSDSYEQY	ASSDSYEQY	0.9727	80701	FGEVFNATRFASVY,FLNGSCGSV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSDSYEQY	ASSDSYEQY	0.9727	28787	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSDSYEQY	ASSTDSYEQY	0.9802	35217	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSSDSYEQY	ASSSESYEQY	0.9732	121131	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSDSYEQY	ASSSSDSYEQY	0.9765	124711	YIFFASFYY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AISTGLYGYT	ASSTGLYGYT	0.9707	57118	GILGFVFTL	Matrix protein 1	Influenza A virus
+AISTGLYGYT	AISTGVYGYT	0.9746	17081	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSSGREQY	ASSSGRQQF	0.9703	126687	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASNLGFYEQY	ASSLGFYEQY	0.9713	54567	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPRDYEQY	ASSPRDYEQY	1.0000	110389	MVMCGGSLYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRDRDYGYT	SARDRDYGYT	0.9810	13212	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSEGEQF	ASSEGEQF	1.0000	79024	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGEQF	ASSEGEQY	0.9885	79025	YVVDDPCPIHFY	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYSPGTGSYEQY	ASSYSPGTGSYEQY	1.0000	136890	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGAYEQY	ASSLGAYEQY	1.0000	92537	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGAYEQY	ASSLGAYEQY	1.0000	21658	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGAYEQY	ASSLGSYEQY	0.9776	170081	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGAYEQY	ASSLGSYEQY	0.9776	31514	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSEGEQY	ASSDGEQY	0.9703	19520	SSYRRPVGI	RNA-directed RNA polymerase catalytic subunit	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSEGEQY	ASSDGEQY	0.9703	76105	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGEQY	ASSEGEQF	0.9885	79024	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGEQY	ASSEGEQY	1.0000	79025	YVVDDPCPIHFY	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARGGYEQY	SSRGGYEQY	0.9843	10542	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+SARGGYEQY	ASRGGYEQY	0.9820	72048	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARGGYEQY	SARGGYEQY	1.0000	142523	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYNEQY	ASSLYNEQF	0.9887	31993	RTQSPRRR,LVVDFSQFSR	precore/core protein, partial [Hepatitis B virus],DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV))
+ASSLYNEQY	ASSLYNEQF	0.9887	171794	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLYNEQY	ASALYNEQF	0.9704	69574	SEISMDNSPNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYNEQY	ASSIYNEQF	0.9704	165971	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSTGGTDTQY	ASSTGGTDTQY	1.0000	37632	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSTGGTDTQY	ASTGGTDTQY	0.9707	136641	FCNDPFLGVYY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGTDTQY	ASTGGTDTQY	0.9707	70381	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGGAQETQY	ASSLGGGAQETQY	0.9804	97573	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQQGDEQY	ASSEQGDEQY	0.9768	79531	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQQGDEQY	ASSQEGDEQY	0.9748	119596	MIELSLIDFYLCFLAFLLFLVLIML,VPHVGEIPVAYRKVLL	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSVLGQETQY	ASSLLGQETQY	0.9795	101552	LEPLVDLPI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVLGQETQY	ASSLVGQETQY	0.9703	102803	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSFSNQPQH	ASSSFSNQPQH	1.0000	121038	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSFSNQPQH	ASSSYSNQPQH	0.9738	129001	AQFAPSASAFFGMSR	N protein	SARS coronavirus Urbani (SARS-CoV (Urbani strain))
+ASSLDSTSTDTQY	ASSLDSSSTDTQY	0.9801	94740	VQPTESIVRFPNITNLCPF,HTTDPSFLGRY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLDSTSTDTQY	ASSLDSTSTDTQY	1.0000	94752	YEGNSPFHPL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRATEAF	ASSLRVTEAF	0.9711	12389	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSQEGGEQY	ASSQEGGEQF	0.9903	46109	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLTSVDTQY	ASSLVSVDTQY	0.9721	13534	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLTSVDTQY	ASSVTSLDTQY	0.9712	17057	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSGTGDQETQY	ASAGTGDQETQY	0.9839	69277	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGRLYEQY	SAGRLYEQY	0.9818	142252	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGSGNTIY	ASSQGSGNTLY	0.9890	20405	HGIRNASFI	pM45	Murid herpesvirus 1 deltaMS94.5
+ATSRGTDTQY	ASARGTDTQY	0.9714	52866	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ATSRGTDTQY	ASSRGTDTQY	0.9863	120166	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AISESQGGTDTQY	ASSESQGGTDTQY	0.9759	41918	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGALNTGELF	ASSGALNTGELF	1.0000	88302	GDAALALLLLDRLNQL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGKAF	ASSQGEAF	0.9728	118914	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVAGLSYEQY	ASAGLSYEQY	0.9723	69257	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVAGLSYEQY	SVAGLSYEQY	1.0000	145902	EEHVQIHTI	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRAPSYEQY	ASRAPSYEQY	1.0000	71341	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTQGQYEQY	ASSQGQYEQY	0.9816	56812	SHLVEALYLVAGERG,HLVERLYLVCGGEG	Insulin-1	Mus musculus (mouse)
+ATSSYNEQF	ASSTYNEQF	0.9735	129324	FLWLLWPVTLACFVLAAV,NPLLYDANYFLCW,SEHDYQIGGYTEKW,FVDGVPFVV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ATSSYNEQF	ASSSYNEQF	0.9858	147936	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSYNEQF	ASSSYNEQF	0.9858	173919	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ATSSYNEQF	ASTSSYNEQF	0.9702	173439	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ATSSYNEQF	ASTSSYNEQF	0.9702	146684	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSYNEQF	ASTSYNEQF	0.9787	135418	VLHSYFTSDYYQLY	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSYNEQF	ATSTYNEQF	0.9780	144692	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSYNEQF	ANSSYNEQF	0.9742	176240	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSEPANTEAF	ASSDPANTEAF	0.9727	80329	FGEVFNATRFASVY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATKAGGGQPQH	ATSAGGGQPQH	0.9737	32114	KTAYSHLSTSK	polymerase	Hepatitis B virus (hepatitis B virus (HBV))
+ASSGPSGANVLT	ASSAPSGANVLT	0.9701	76054	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLARGSYEQY	ASSLSRGSYEQY	0.9788	105255	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGASGELF	ASSGVSGELF	0.9709	88394	LLLDDFVEII	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSGVTEAF	ASSESGVTEAF	0.9720	53661	AVFDRKSDAK,KLGGALQAK	Epstein-Barr nuclear antigen 4,55 kDa immediate-early protein 1	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSSSGVTEAF	ASSSGVTEAF	0.9769	126188	AEIRASANLAATK,VPHVGEIPVAYRKVLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSETGIGYT	ASSETGLGYT	0.9818	79797	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLSTDTQY	ASSLGVSTDTQY	0.9774	95915	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLSTDTQY	ASSLGLSTDTQY	1.0000	97903	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDRLNNEQF	ASTDRLNNEQF	0.9821	137418	KPLEFGATSAAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRSPSYEQY	ASRAPSYEQY	0.9780	71341	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGTANTGELF	ASSGTANTGELF	0.9732	35990	SLAALKKALADGGYDVEKNNSRI		
+ASTQGLMNTEAF	ASSQGLMNTEAF	0.9828	117094	GYQPYRVVVLSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTQGLMNTEAF	ASTQGVMNTEAF	0.9748	133925	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLVGGQPQH	ASSLLGGQPQH	0.9755	101333	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSETIGNTEAF	ASSKTIGNTEAF	0.9739	14709	GILGFVFTL	Matrix protein 1	Influenza A virus
+ALSEEEQF	ASSEEEQF	0.9707	40061	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSFGGGTDTQY	ASSFGGGTDTQY	1.0000	9007	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLANQPQH	ASSLSNQPQH	0.9781	24637	PKYVKQNTLKLAT	Hemagglutinin precursor	Influenza A virus
+ASSLANQPQH	ASSLANQPQH	1.0000	94228	FVCNLLLLFVTVYSHLLLV	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRRGGTDTQY	ASSKRGGTDTQY	0.9794	90286	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGRGGRNIQY	ASSQGRGGKNIQY	0.9759	9246	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSQGEQY	ASSEGEQY	0.9750	79025	YVVDDPCPIHFY	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRSGDQPQH	ASSRTGDQPQH	0.9763	120963	LLLDDFVEII	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEDRSYEQY	ASSQDRSYEQY	0.9768	172640	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSEDRSYEQY	ASSQDRSYEQY	0.9768	16314	GIVEQCCTSICSLYQ	Insulin precursor	Homo sapiens (human)
+ASSEDRSYEQY	ASSDDRSYEQY	0.9728	74978	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVVDRSYEQY	SAIDRSYEQY	0.9721	143809	VPHVGEIPVAYRKVLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGTETQY	ASSGTDTQY	0.9719	87602	LSPRWYFYYL,IMLIIFWFSL,SEHDYQIGGYTEKW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+SARGRNQPQH	SARGRNQPQH	1.0000	146600	YEDFLEYHDVRVVL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPLTGNTEAF	ASSPVTGNTEAF	0.9759	114600	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASYSSDTQY	ASSYSSDTQY	0.9715	135689	LSDDAVVCFNSTY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASLLAGVYEQY	ASLLAGLYEQY	0.9760	148136	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGEETQY	ASSAGGEETQY	0.9711	74904	YFPLQSYGF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGEETQY	ASSGGGEETQY	1.0000	87459	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGEETQY	ASSGGGQETQY	0.9757	87560	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGEETQY	ASSGGGQETQY	0.9757	147591	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGGEETQY	ASSSGGEETQY	0.9707	121248	SEYKGPITDVFYKENSY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEDRGSYEQY	ASSKDRGSYEQY	0.9718	89082	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWTYEQY	ASSWSYEQY	0.9738	132135	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRLAGVTDTQY	ASRLAGVTDTQY	1.0000	72646	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ARSGTGNEQF	ATSGTGNEQF	0.9717	69756	YEGNSPFHPL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQAGASYEQY	ASSQAGAAYEQY	0.9799	30258	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSQAGASYEQY	ASSQAGSSYEQY	0.9792	35871	DATYQRTRALVR	nucleoprotein	Influenza A virus
+ASSQDGGEDTQY	ASSQDGGEETQY	0.9725	172525	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLGVSEQY	ASSLGLSEQY	0.9774	23997	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSGLEGTDTQY	ASSGLQGTDTQY	0.9731	11669	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPGDEQF	ASSPGDEQF	1.0000	27604	CRVLCCYVL	regulatory protein IE1	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPGDEQF	ASSPGDEQF	1.0000	107081	MGYINVFAFPFTIYSL,RQLLFVVEV,STDTGVEHVTFFIYNK	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSPGDEQF	ASTPGDEQF	0.9790	27605	CRVLCCYVL	regulatory protein IE1	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPGDEQF	ASSPGDEQY	0.9885	27607	CRVLCCYVL	regulatory protein IE1	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPGDEQF	ATSPGDEQY	0.9730	27614	CRVLCCYVL	regulatory protein IE1	Human herpesvirus 5 (Human cytomegalovirus)
+AAGNSYEQY	ASGNSYEQY	0.9851	70529	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AAGNSYEQY	ATGNSYEQY	0.9770	140155	AYILFTRFFYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSSRTGATEAF	ASSSRTGSTEAF	0.9701	124383	AYKTFPPTEPK	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASGGNQPQH	ASAGGNQPQH	0.9743	52854	AVFDRKSDAK,RLRAEAQVK,KLGGALQAK	Epstein-Barr nuclear antigen 4,Epstein-Barr nuclear antigen 3,55 kDa immediate-early protein 1	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+SASGGNQPQH	ASSGGNQPQH	0.9850	87889	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKGANYGYT	ASSGANYGYT	0.9718	88309	QELIRQGTDYKHW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRNQPQH	ASSRNQPQH	1.0000	121279	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSELGGYEQY	ASSDLGGYEQY	0.9712	179696	FQPQNGQFI	Nucleoprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+ASGTDTQY	ATGTDTQY	0.9838	51357	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASGTDTQY	ASGTDTQY	1.0000	68820	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGTDTQY	ASGTDTQY	1.0000	71095	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLPGGYEQY	ASSLPGGYEQY	1.0000	102070	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLQGHTTDTQY	ASSLQGHSTDTQY	0.9753	44127	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGTDNEQF	ASSGSDNEQF	0.9779	87160	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKSLLGEEQF	ASRSLLGEEQF	0.9829	39223	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+AISRGGGYEQY	ATSRGGGYEQY	0.9766	58660	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSMASGNEQY	ASSLASGNEQF	0.9737	170203	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSMASGNEQY	ASSLASGNEQF	0.9737	28470	KLPLDINPV	Tubulin--tyrosine ligase-like protein 12	Homo sapiens (human)
+ASSLGTAYNEQF	ASSLGTSYNEQF	0.9767	96839	VLPPLLTDEMIAQYT,FVDGVPFVV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGTAYNEQF	ASSLGTAYNEQF	1.0000	97232	KLNVGDYFV,FLWLLWPVTLACFVLAAV,VQPTESIVRFPNITNLCPF	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+SASHESSYNEQF	ASHESSYNEQF	0.9726	147566	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AKREGGRYNEQF	ASREGGRYNEQF	0.9787	147240	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGKGSYEQY	ASSLGQGSYEQY	0.9702	1817	GTSGSPIVNR,GTSGSPIINR,GTSGSPIIDK,GTSGAPIVNR,GTSGSPIVAR,GTSGSPIVDR	nonstructural protein 3,Nonstructural protein NS3,Nonstructural protein NS3,polyprotein	Dengue virus 1 (dengue type 1 D1 virus),Dengue virus 3 (Dengue virus serotype 3),Dengue virus 2 Thailand/16681/84 (Dengue virus type 2 (strain 16681)),Dengue virus 2 (dengue 2 virus DEN-2)
+ASSLGKGSYEQY	ASSLGQGSYEQY	0.9702	98359	TPINLVRDL,YQKVGMQKY,VPHVGEIPVAYRKVLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLGKGSYEQY	ASSLGRGSYEQY	0.9754	95962	YVVDDPCPIHFY,QLMCQPILLL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASREI	ASRET	0.9744	71241	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AGTGGNTEAF	ASTGGNTEAF	0.9764	31855	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSSGGSTEAF	ASKSGGSTEAF	0.9767	74349	KLPDDFTGCV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGSTEAF	ASSEGGSTEAF	0.9720	79260	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGSTEAF	ASSSGGNTEAF	0.9712	120682	AELAKNVSLDNVL,IPIQASLPF	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSGGSTEAF	ASSSGGTTEAF	0.9810	126683	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGGSTEAF	ATSSGGSTEAF	0.9889	137743	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGSGGSYEQY	ASSASGGSYEQY	0.9720	53240	IVTDFSVIK,KLGGALQAK	Epstein-Barr nuclear antigen 4,55 kDa immediate-early protein 1	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSGSGGSYEQY	ASSGTGGSYEQY	0.9786	87729	SPFHPLADNKFAL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPRGSYEQY	ASSPRGTYEQY	0.9748	109417	EILDITPCSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPRGSYEQY	ASSPRGSYEQY	1.0000	110950	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AETGGTDTQY	ASTGGTDTQY	0.9787	136641	FCNDPFLGVYY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AETGGTDTQY	ASTGGTDTQY	0.9787	70381	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AETGGTDTQY	SATGGTDTQY	0.9721	145362	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFRGGEQY	ASSFRGGEQF	0.9892	168715	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSFSSSYEQY	ASSFASSYEQY	0.9804	31406	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFSSSYEQY	ASSFASSYEQY	0.9804	85199	QLMCQPILLL,FAFACPDGVKHVYQL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASFSSSYEQY	0.9735	69911	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFSSSYEQY	ASSFSSSYEQY	1.0000	82085	VLPPLLTDEMIAQYT,SELVIGAVIL,QLMCQPILLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASSLSSSYEQY	0.9728	104508	FPPTSFGPL,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASSYSSSYEQY	0.9787	136129	QLMCQPILLL,FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTIGNEQF	ASSSIGNEQY	0.9704	126732	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRSYEQY	ASSNRSYEQY	0.9709	107724	YEDFLEYHDVRVVL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRSYEQY	ASSRSYEQY	0.9727	120754	LSPRWYFYYL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRSYEQY	ASSSRTYEQY	0.9786	124499	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGKGNTEAF	ASSQGQGNTEAF	0.9712	46049	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSISDTQY	ASSVTDTQY	0.9708	174101	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSISDTQY	ASSLSDTQY	0.9830	23709	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSISDTQY	ASSLSDTQY	0.9830	99261	RSVASQSIIAYTMSL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSISDTQY	ASSITDTQY	0.9790	91069	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSISDTQY	ASSVSDTQY	0.9904	127238	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRLAGETQY	ATSRLAGETQY	0.9873	31872	STLPETAVVRR,LVVDFSQFSR,RTQSPRRR,KTAYSHLSTSK	precore/core protein,DNA polymerase,precore/core protein, partial [Hepatitis B virus],polymerase	Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV))
+AVGQGNTEAF	ASGQGNTEAF	0.9742	37827	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ATGGYNEQF	ASGGYNEQF	0.9836	10005	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASTTGQETQY	ASSTGQETQY	0.9834	15826	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASTTGQETQY	ASSTGQETQY	0.9834	147938	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTTGQETQY	ASTTGQETQY	1.0000	133839	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASITGSTEAF	ASMTGSTEAF	0.9790	37948	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASITGSTEAF	SALTGSTEAF	0.9732	143360	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTSYEQY	ASSPSSYEQY	0.9778	110221	SPFHPLADNKFAL,MIELSLIDFYLCFLAFLLFLVLIML,GMEVTPSGTWLTY	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSPTSYEQY	ASSPTAYEQY	0.9774	114794	SEISMDNSPNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTSYEQY	ASSPTSFEQY	0.9740	115052	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTSYEQY	ASSPTSYEQF	0.9899	115373	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTSYEQY	ASSPTSYEQY	1.0000	115374	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVSGTSYEQY	ASSVSGSSYEQY	0.9788	18278	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSGGEGAYEQY	ASSGGQGAYEQY	0.9732	57844	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSNNSPLH	ASSSSNSPLH	0.9722	148345	DLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALN	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGAEQY	ASSLAGSEQF	0.9725	89174	LSPRWYFYYL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGAEQY	ASSLAGSEQY	0.9809	89175	LSPRWYFYYL,FVDGVPFVV	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGAEQY	ASSLAGTEQY	0.9705	90137	VLPFNDGVYFASTEK,GLEAPFLYLYALVYFLQSINFVRIIMR,LSPRWYFYYL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLAGAEQY	ASSLAGAEQF	0.9907	90301	FLWLLWPVTLACFVLAAV,LSPRWYFYYL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGAEQY	ASSLAGAEQY	1.0000	90302	MIELSLIDFYLCFLAFLLFLVLIML,MGYINVFAFPFTIYSL	ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGAEQY	ASSLAGVEQY	0.9721	90353	LSPRWYFYYL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLAGYEQY	ASSLGLAGYEQY	1.0000	98808	MIELSLIDFYLCFLAFLLFLVLIML,KLPDDFTGCV	ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSRGETQY	ASSRGETQY	1.0000	171957	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSRGETQY	ASSRGETQY	1.0000	22211	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSRGETQY	ASTRGETQY	0.9807	134173	YHLMSFPQSA	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSLLYNEQF	ASSLLYNEQF	0.9705	149812	VAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGTAGNTIY	ASSLTGTAGNTIY	0.9704	104111	SELVIGAVIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRDTGELF	ASSVRDTGELF	0.9780	127140	KLWAQCVQL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASALAVYNEQF	ASSLAVYNEQF	0.9837	94700	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTGQGDEQY	ASSGQGDEQF	0.9719	88266	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTGQGDEQY	ASTGQGDEQY	1.0000	136859	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSIGTSGTEQF	ASSLGTSGTEQY	0.9764	96734	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SDYNEQF	SDYNEQF	1.0000	177649	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLTPGGTEAF	ASSVTPGGTEAF	0.9785	26334	PKYVKQNTLKLAT	Hemagglutinin precursor	Influenza A virus
+ASSLTPGGTEAF	ASSLSPGGTEAF	0.9774	104357	YEQYIKWPWYI,VLHSYFTSDYYQLY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASTGGVQETQY	SGTGGVQETQY	0.9735	144838	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTGGVQETQY	ASSGGVQETQY	0.9827	147598	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGYANEQF	ASSGYSNEQF	0.9772	88620	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGLTGELF	ASSLGGLTGELF	1.0000	29812	ELAGIGILTV		
+ASSLGGLTGELF	ASSIGGLTGELF	0.9835	85766	AYSNNSIAIPTNFTISV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDESTEAF	ASSDSSTEAF	0.9714	80684	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSRENTGELF	ASSRENTGELF	0.9710	122433	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYDTGELF	ASSFDTGELF	0.9731	84146	RSVASQSIIAYTMSL,KLWAQCVQL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSGTLYGYT	ASSGTVYGYT	0.9754	88274	IMLIIFWFSL	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSADRGEQY	ASSSDRGEQF	0.9703	28285	ALSYTPVEV,VMPFSIVYIV,ALSYTPAEV	Protein Njmu-R1,5-hydroxytryptamine receptor 1F [Homo sapiens]	Homo sapiens (human),Homo sapiens (human)
+ASSLGGTNEQY	ASSLGGTNEQF	0.9903	97597	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGGTNEQY	ASSLGGTNEQY	1.0000	97668	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDSYGYT	ASADSYGYT	0.9813	37579	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSDSYGYT	ASSDTYGYT	0.9763	168283	FLRGRAYGL	nuclear antigen EBNA-3	Human herpesvirus 4 (Epstein Barr virus)
+ASSDSYGYT	ASSESYGYT	0.9713	53695	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSDSYGYT	ASSDSYGYT	1.0000	80702	YYVGYLQPRTFLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSDSYGYT	ATSDSYGYT	0.9853	139781	SYFIASFRLFA	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SAGYEQF	ASGYEQF	0.9795	71026	KQIYKTPPIKDF,TPINLVRDL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSAQETQY	ASSSTQETQY	0.9721	149670	ARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGRGLSYEQY	ASSIGRGLSYEQY	0.9826	91905	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGRGLSYEQY	ASSLGRGLSYEQY	1.0000	95867	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGRGLSYEQY	ASSMGRGLSYEQY	0.9806	109036	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYNEQY	ASSLYNEQF	0.9887	31993	RTQSPRRR,LVVDFSQFSR	precore/core protein, partial [Hepatitis B virus],DNA polymerase	Hepatitis B virus (hepatitis B virus (HBV)),Hepatitis B virus (hepatitis B virus (HBV))
+ASSLYNEQY	ASSLYNEQF	0.9887	171794	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLYNEQY	ASALYNEQF	0.9704	69574	SEISMDNSPNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYNEQY	ASSIYNEQF	0.9704	165971	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSQGPAYEQY	ASSQGPAYEQY	1.0000	117319	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLIWGGYT	ASSLVWGGYT	0.9874	103501	VPHVGEIPVAYRKVLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPDRGYGYT	ASSPDRGYGYT	1.0000	108321	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AWSANYGYT	AWTANYGYT	0.9769	143167	QELIRQGTDYKHW	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLQYSNQPQH	ASSLEYSNQPQH	0.9734	93662	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGSNEKLF	ASSEGSNEKLF	0.9706	78605	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLWTNQPQH	ASSLWSNQPQH	0.9719	102851	APHGVVFLHVTYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLLSYEQY	ASSLLVSYEQY	0.9781	17561	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLLLSYEQY	ASSLLLAYEQY	0.9798	102023	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLLSYEQY	ASSLVLSYEQY	0.9781	103575	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQDTDTQY	ASSQDSDTQY	0.9787	113825	CMTSCCSCLK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRQGETQY	ASSLREGETQY	0.9736	147721	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSGPRETQY	ASSLAGPRETQY	0.9774	88864	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGSQETQY	ASTSGSQETQY	0.9847	134956	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGSQETQY	ASSGSQETQY	0.9755	170325	YVLDHLIVV,GLCTLVAML	Transcription activator BRLF1,Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+ASSEQVYGYT	ASSEQIYGYT	0.9886	57575	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSLRGTDTQY	ASSLRGSDTQY	0.9771	43451	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLRGTDTQY	ASSLKGTDTQY	0.9772	97200	VPHVGEIPVAYRKVLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVEGGTGELF	ASSVEGGSGELF	0.9782	9233	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSIRASNQPQH	ASSIRASNQPQH	1.0000	91842	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASRGETQY	ASSRGETQY	0.9844	171957	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+SASRGETQY	ASSRGETQY	0.9844	22211	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSLWGTDTQY	ASSVWGTDTQY	0.9746	17250	RPRGEVRFL	tegument protein VP22	Human herpesvirus 2
+SARDRGDEQY	ASRDRGDEQY	0.9825	72115	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSASGESYEQY	ASSAAGESYEQY	0.9804	57634	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASGGGSYEQY	ASSGGSYEQY	0.9710	88337	MIELSLIDFYLCFLAFLLFLVLIML,VLWAHGFEL,HTTDPSFLGRY	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASGGGSYEQY	SVGGGSYEQY	0.9724	151496	TLGVYDYLVST	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASMRWGTEAF	ASLRWGTEAF	0.9792	31626	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSQGGGQETQY	ASSQGGGQETQY	1.0000	119457	ILLIIMRTFKVSIWNLDYII	ORF6 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPATGTEAF	ASSPATGTEAF	1.0000	17828	ARMILMTHF	polyprotein precursor	Hepatitis C virus
+ASSSASNQPQH	ASSQASNQPQH	0.9701	115635	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSASNQPQH	ASSSTSNQPQH	0.9714	123980	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSASNQPQH	ASSTASNQPQH	0.9817	129224	KPLEFGATSAAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYGFTDTQY	ASSFGFTDTQY	0.9734	57588	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+VSTYEQY	SATYEQY	0.9712	50367	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASRGIYEQY	ASRGLYEQY	0.9785	147263	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRVNTEAF	ASSRMNTEAF	0.9702	121180	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKASYEQY	ASRASYEQY	0.9812	11631	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASKASYEQY	ASSASYEQY	0.9732	179856	FQPQNGQFI	Nucleoprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+SARLYNEQF	ASRLYNEQF	0.9819	77006	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASAGGLAGDEQY	ASSAGGLAGDEQY	0.9709	11192	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPSGVSTDTQY	ASSSPSGVSTDTQY	0.9724	22609	TPRVTGGGAM,LPRRSGAAGA	HCMVUL83,nucleoprotein	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus
+ASSPSGVSTDTQY	ASSPSGISTDTQY	0.9890	109668	SPFHPLADNKFAL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSGVSTDTQY	ASSPSGVSTDTQY	1.0000	110537	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSGVSTDTQY	ASSPTGVSTDTQY	0.9788	116115	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSGVSTDTQY	ASTPSGVSTDTQY	0.9839	135170	LLLDDFVEII	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHRATGELF	ASSHRATGELF	1.0000	14768	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSHRATGELF	ASSHRSTGELF	0.9769	14900	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSFGTSEQY	ASSFGTAEQY	0.9793	84725	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGTSEQY	ASSFGTSEQF	0.9902	85069	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGPGDTGELF	ASSQGPGDTGELF	0.9749	32697	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSADGSYEQY	ASSSADGSYEQY	0.9724	49740	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSADGSYEQY	ASSSDGSYEQY	0.9807	121006	SEHDYQIGGYTEKW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLDTQY	ASSVLDTQY	0.9782	10383	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSLLDTQY	ASSLIDTQY	0.9814	36959	RAKFKQLL	Trans-activator protein BZLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLLDTQY	ASSLLDSQY	0.9811	100897	NPLLYDANYFLCW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLLDTQY	ASSLLDTQY	1.0000	170174	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLLDTQY	ASSLVDTQY	0.9769	103424	FLWLLWPVTLACFVLAAV,MGYINVFAFPFTIYSL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASRASYEQY	ASRASYEQY	1.0000	11631	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASRASYEQY	ASSRASYEQY	0.9701	25472	SIINFEKL	ovalbumin	Gallus gallus (chicken)
+ASRASYEQY	ASRVSYEQY	0.9700	139574	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRASYEQY	SARASYEQY	0.9842	142537	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSMGGFTDTQY	ASSLGGFTDTQY	0.9800	97567	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKGGYTQY	ASQGGYTQY	0.9743	72110	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AISGGLHYGYT	SVAGGLHYGYT	0.9709	145890	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVVGNTEAF	ASSIVGNTEAF	0.9907	28795	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSVVGNTEAF	ASSVVGNTEAF	1.0000	132179	KLPDDFTGCV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVVGNTEAF	ASSLVGNTEAF	0.9795	102705	VQELYSPIFLIV,MIELSLIDFYLCFLAFLLFLVLIML,IMLIIFWFSL	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSVRNQPQH	ASSLRNQPQH	0.9770	24334	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+AGGGNTEAF	SAGGNTEAF	0.9735	142892	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLTSGRSTEAF	ASSLASGRSTEAF	0.9719	53476	KLGGALQAK,IVTDFSVIK,AVFDRKSDAK,RLRAEAQVK,AYAQKIFKI	55 kDa immediate-early protein 1,Epstein-Barr nuclear antigen 4,Epstein-Barr nuclear antigen 4,Epstein-Barr nuclear antigen 3,55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169)),Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSYLGGYGYT	ASSYVGGYGYT	0.9746	136060	FLPRVFSAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLNRNYGYT	ASSLNRNYGYT	1.0000	101288	LITLATCELYHYQECV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSGREETQY	ASSTSGREETQY	0.9819	56832	SLLRSLENV		
+ASNDRGEQY	ASSDRGEQY	0.9712	18850	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ATETGHYGYT	SVETGHYGYT	0.9720	150692	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQGGAEAF	ASSQGGTEAF	0.9703	116327	FVDGVPFVV,IMLIIFWFSL,APKEIIFLEGETL,FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSQGGAEAF	ASSQGGTEAF	0.9703	23383	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSQGGAEAF	ASSRGGAEAF	0.9703	58405	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSSTRGYT	ASSSTRGYT	1.0000	124535	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSTGTGYNEQF	ASSNTGTGYNEQF	0.9711	11194	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSSTGTGYNEQF	ASSATGTGYNEQF	0.9812	75862	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSTGTGYNEQF	ASSSTGTGFNEQF	0.9732	123545	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSTGTGYNEQF	ASSSSGTGYNEQF	0.9791	123626	SEYKGPITDVFYKENSY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADTQY	ASSVADTQY	0.9785	129445	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADTQY	ASSLSDTQY	0.9791	23709	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLADTQY	ASSLSDTQY	0.9791	99261	RSVASQSIIAYTMSL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADTQY	ASSLAETQY	0.9723	90101	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADTQY	ASSLADTQY	1.0000	89893	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLADTQY	ASSLVDTQY	0.9701	103424	FLWLLWPVTLACFVLAAV,MGYINVFAFPFTIYSL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLADTQY	ASSSLADTQY	0.9728	125355	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVTGVGYT	ASSLTGVGYT	0.9789	104451	NRDVDTDFVNEFYAY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSSYNEQF	ASSLSSYNEQF	1.0000	23711	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLSSYNEQF	ASSLSSYNEQF	1.0000	104615	FPPTSFGPL,AYSNNSIAIPTNFTISV,SMWSFNPETNIL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLSSYNEQF	ASSVSSYNEQF	0.9803	30113	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLSSYNEQF	ASSVSSYNEQF	0.9803	174100	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLSSYNEQF	ASSISSYNEQF	0.9841	40333	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLSSYNEQF	ASSLSAYNEQF	0.9788	99024	YEQYIKWPWYI,YEDFLEYHDVRVVL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLSSYNEQF	ASSFSSYNEQF	0.9702	82089	FPPTSFGPL,QLMCQPILLL,FVDGVPFVV,YEDFLEYHDVRVVL,APHGVVFLHVTYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF8 protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLSSYNEQF	ASSLASYNEQF	0.9797	94051	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSSYNEQF	ASSLTSYNEQF	0.9791	102437	KLSYGIATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLSSYNEQF	ASSLSTYNEQF	0.9780	105054	MVMCGGSLYV,FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ATKGGGSYEQY	ATSGGGSYEQY	0.9733	140587	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAADTGELF	ASSLVADTGELF	0.9720	102876	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGLGGANEQF	ASSLGGANEQF	0.9706	93181	QLMCQPILLL,YIFFASFYY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLGAGTNEQF	ASSLGAGTNEQF	1.0000	54485	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLAGQGGNQPQH	ASSLAGEGGNQPQH	0.9705	89144	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGQGDGYT	ASSGQGDGYT	1.0000	88267	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGQGDGYT	ASSSGQGDGYT	0.9702	126152	STDTGVEHVTFFIYNK	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSIVENNEQF	ASSVLENNEQF	0.9738	48089	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSSRVNEQY	ASSSRANEQY	0.9710	124807	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGAVSYNEQF	ASSGVVSYNEQF	0.9708	57872	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSGAVSYNEQF	ASSGALSYNEQF	0.9760	88304	ITEEVGHTDLMAAY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGQAYEQY	ASSGGQAYEQY	1.0000	1321	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSGGQAYEQY	ASSGGEAYEQY	0.9736	57837	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSLVGGSYNEQF	ASSMVGGSYNEQF	0.9812	57100	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLVGGSYNEQF	ASSLLGGSYNEQF	0.9764	169890	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLVGGSYNEQF	ASNLVGGSYNEQF	0.9752	73835	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFSSSYEQY	ASSFASSYEQY	0.9804	31406	STLPETAVVRR	precore/core protein	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFSSSYEQY	ASSFASSYEQY	0.9804	85199	QLMCQPILLL,FAFACPDGVKHVYQL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASFSSSYEQY	0.9735	69911	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFSSSYEQY	ASSFSSSYEQY	1.0000	82085	VLPPLLTDEMIAQYT,SELVIGAVIL,QLMCQPILLL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASSLSSSYEQY	0.9728	104508	FPPTSFGPL,QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSFSSSYEQY	ASSYSSSYEQY	0.9787	136129	QLMCQPILLL,FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLEGTYGYT	ASSLEGTYGYT	1.0000	93643	YEQYIKWPWYI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQDRTSYEQY	ASSQDRTAYEQY	0.9778	113049	FGEVFNATRFASVY,MIELSLIDFYLCFLAFLLFLVLIML	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTGNYGYT	ASSSTGNYGYT	0.9701	9324	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSTGNYGYT	ASSTGNYGYT	1.0000	17002	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSTGNYGYT	ASSTGNYGYT	1.0000	28879	ALYGFVPVL		
+ASSTGNYGYT	ATSSGNYGYT	0.9738	50690	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSTGNYGYT	ASSSGNYGYT	0.9786	125821	GDAALALLLLDRLNQL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGNYGYT	ASSTGNFGYT	0.9728	130234	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGNYGYT	ASTTGNYGYT	0.9817	173546	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSARSSYEQY	ASSSRSSYEQY	0.9827	55836	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRSSYEQY	0.9827	35214	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRSSYEQY	0.9827	29789	EAAGIGILTV,ELAGIGILTV	Melanoma antigen recognized by T-cells 1	Homo sapiens (human)
+ASSARSSYEQY	ASSTRSSYEQY	0.9733	35225	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSTRSSYEQY	0.9733	13981	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSTRSSYEQY	0.9733	173961	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSARSSYEQY	ASSVRSSYEQY	0.9744	57125	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSVRSSYEQY	0.9744	35232	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSVRSSYEQY	0.9744	8662	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSGRSSYEQY	0.9705	13427	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRSAYEQY	0.9728	55813	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRSAYEQY	0.9728	30107	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSARSAYEQY	0.9802	14966	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRASYEQY	0.9733	55749	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSSRASYEQY	0.9733	35208	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSARSSYEQY	ASSARSSYEQY	1.0000	53258	GILGFVFTL,RAKFKQLL,GLCTLVAML	Matrix protein 1,Trans-activator protein BZLF1,Transcriptional regulator IE63 homolog	Influenza A virus,Human herpesvirus 4 (Epstein Barr virus),Human herpesvirus 4 (Epstein Barr virus)
+SARRPSSYNEQF	SAKRPSSYNEQF	0.9814	8887	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASKGGGEETQY	ASSGGGEETQY	0.9747	87459	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPDSSGNTIY	ASSPDSSGNTLY	0.9893	56738	SHLVEALYLVAGERG,HLVERLYLVCGGEG	Insulin-1	Mus musculus (mouse)
+ASSVGGGTDTQY	ASNVGGGTDTQY	0.9757	71306	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGGTDTQY	ASSLGGGTDTQY	0.9795	170076	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSVGGGTDTQY	ASSVGGGTDTQY	1.0000	127287	ILLIIMRTFKVSIWNLDYII	ORF6 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLNLYEQY	ASSLNIYEQY	0.9801	8801	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASSPKGAGNTIY	ASSPRGAGNTIY	0.9759	55234	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASIGLYEQY	ASIGLYEQY	1.0000	147670	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASIGLYEQY	ASLGIYEQY	0.9713	148031	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASIGLYEQY	ASLGLYEQY	0.9829	148035	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRTTGSSYEQY	ASRTSGSSYEQY	0.9792	78305	TLIGDCATV,SMWSFNPETNIL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASRTTGSSYEQY	ASSTTGSSYEQY	0.9714	128873	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGAANYGYT	ASSWGASNYGYT	0.9744	133645	SMWSFNPETNIL	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLYGTGDEQY	ASSLYGTGDEQY	1.0000	103848	APHGVVFLHVTYV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASEQY	ASSLATEQF	0.9710	28015	AVGSYVYSV		
+ASSLASEQY	ASSLASEQY	1.0000	28156	KLSREIMPV	Histone acetyltransferase KAT6A	Homo sapiens (human)
+ASSLASEQY	ASSLASEQY	1.0000	95327	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASEQY	ASSLAAEQF	0.9723	89345	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASEQY	ASSLANEQY	0.9706	94135	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASEQY	ASSLSSEQF	0.9723	171525	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSLASEQY	ASSLSSEQY	0.9810	105576	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLASEQY	SLSLASEQY	0.9704	167857	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASEGSSSYEQY	SVEGSSSYEQY	0.9758	151343	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ARQGDNEQF	ASQGDNEQF	0.9715	147008	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLEGNSPLH	ASSLQGNSPLH	0.9735	102205	AELAKNVSLDNVL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSYEQY	ASSPAYEQY	0.9768	23545	TPRVTGGGAM,LPRRSGAAGA	HCMVUL83,nucleoprotein	Human herpesvirus 5 (Human cytomegalovirus),Influenza A virus
+ASSPSYEQY	ASSPAYEQY	0.9768	109189	RQLLFVVEV,KFPRGQGVPI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSPSYEQY	ASSSPSYEQY	0.9702	35434	SGNHAAGILTMGRRAGAEPAPR	hypocretin (orexin) neuropeptide precursor [Homo sapiens]	Homo sapiens (human)
+ASSPSYEQY	ASSSPSYEQY	0.9702	123903	GYQPYRVVVLSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSYEQY	ASSPSYEQY	1.0000	142206	ILLIIMRTFKVSIWNLDYII	ORF6 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPSYEQY	ASSPSYEQY	1.0000	180079	FQPQNGQFI	Nucleoprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+ASSPSYEQY	ASSPTYEQY	0.9760	115699	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGRTDTQY	SSGGRTDTQY	0.9922	51284	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASGGRTDTQY	ASGGRTDTQY	1.0000	142532	ITEEVGHTDLMAAY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGGAYEQY	ASSSGGAYEQY	0.9718	58265	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSGGAYEQY	ASSGGSYEQY	0.9779	88337	MIELSLIDFYLCFLAFLLFLVLIML,VLWAHGFEL,HTTDPSFLGRY	ORF7b [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSPGDYNEQF	ASSPGDYNEQF	1.0000	107286	MVMCGGSLYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARQGYEQY	ASRQGYEQY	0.9819	18735	ASNENMETM	Nucleoprotein	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+SARQGYEQY	ASRQGYEQY	0.9819	148369	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARQGYEQY	ASRQGYEQY	0.9819	53120	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+SARQGYEQY	ATRQGYEQY	0.9728	51614	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+SARQGYEQY	ASRQGYEQF	0.9708	77382	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARQGYEQY	SARKGYEQY	0.9702	147386	APKEIIFLEGETL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SARQGYEQY	SARQGYEQY	1.0000	148095	NPLLYDANYFLCW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGETQY	ASSYGGETQY	0.9736	133514	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGETQY	ASSYGGETQY	0.9736	32755	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+ASSFGGETQY	ASSFGGETQY	1.0000	84171	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGRGNQPQH	ASSLGRGNQPQH	1.0000	45317	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSPRDKVNTEAF	ASSPRDRVNTEAF	0.9739	47579	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSTYEQY	ASSSYEQY	0.9782	146154	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTYEQY	ASSSYEQY	0.9782	128677	SEYKGPITDVFYKENSY,YEQYIKWPWYI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTYEQY	ASSSYEQY	0.9782	19360	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSTYEQY	ASSSYEQY	0.9782	140565	GMEVTPSGTWLTY	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTYEQY	ASSSTYEQY	0.9719	124105	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTYEQY	ASSSTYEQY	0.9719	22815	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSTYEQY	ASSSTYEQY	0.9719	147935	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLQGPYEQY	ASSLEGPYEQY	0.9713	44399	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLQGPYEQY	ASSLQGPYEQY	1.0000	100867	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRTSYNEQF	ASRTTYNEQF	0.9765	76506	KPLEFGATSAAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPRQYEQY	ASTPRQYEQY	0.9802	135057	ILLIIMRTFKVSIWNLDYII	ORF6 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASKGQQETQY	ASRGQQETQY	0.9819	72848	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAGQGYEQY	ASSLAGQGYEQY	1.0000	88969	VLHSYFTSDYYQLY,VQPTESIVRFPNITNLCPF,MIELSLIDFYLCFLAFLLFLVLIML	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLAGQGYEQY	ASSLSGQGYEQY	0.9781	99068	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AASPTGDEQY	ASSPTGDEQY	0.9862	32005	RTQSPRRR	precore/core protein, partial [Hepatitis B virus]	Hepatitis B virus (hepatitis B virus (HBV))
+AASPTGDEQY	ASSPTGDEQY	0.9862	115220	MIELSLIDFYLCFLAFLLFLVLIML,SYQTQTNSPRRARSVA,QECVRGTTVL	ORF7b [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASRSRDSSYEQY	ASSSRDSSYEQY	0.9713	172354	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSLATSGSYEQY	ASSLASSGSYEQY	0.9793	95648	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLATSGSYEQY	ASSVATSGSYEQY	0.9817	128766	ISDYDYYRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPDPSGVNEQF	ASSPDPTGVNEQF	0.9728	171676	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSKRGTYEQY	ASSKRGSYEQY	0.9769	35322	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSKRGTYEQY	ASSRRGTYEQY	0.9784	120302	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGGDTEAF	ASSAGGDTEAF	0.9725	27848	ILTGLNYEA,ILTGLNYEV	Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating	Homo sapiens (human)
+ASSVGGDTEAF	ASSAGGDTEAF	0.9725	74901	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASPLSSYNEQF	SAPLSSYNEQF	0.9834	142746	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASPLSSYNEQF	ATPLSSYNEQF	0.9861	146055	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLIGNTGELF	ASSILGNTGELF	0.9735	53616	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLIGNTGELF	ASSIVGNTGELF	0.9748	91655	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLIGNTGELF	ASSLLGNTGELF	0.9813	101456	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLIGNTGELF	ASTLVGNTGELF	0.9739	135243	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPRDSNQPQH	ASSPRDSNQPQH	1.0000	110270	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGQIYNEQF	ASSGQLYNEQF	0.9789	88485	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSSSYEQY	0.9790	124413	MGYINVFAFPFTIYSL,FLNGSCGSV,FLCLFLLPSLATV,SPFHPLADNKFAL,YEQYIKWPWYI,MIELSLIDFYLCFLAFLLFLVLIML,FLWLLWPVTLACFVLAAV	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7a protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSSSSYEQY	ASSSSYEQY	0.9790	22796	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSSSSYEQY	ASSQSSYEQY	0.9703	122331	FLPRVFSAV,GNYTVSCLPFTI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSSSYEQY	ASSKSSYEQY	0.9721	24602	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSSSSYEQY	ASSKSSYEQY	0.9721	90494	MPASWVMRI	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSTSSYEQY	0.9821	128524	GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSESSYEQY	0.9715	79014	SPFHPLADNKFAL,FLNGSCGSV,HTTDPSFLGRY	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSSSSYEQY	ASSSESYEQY	0.9704	121131	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSSSNYEQY	0.9718	123862	GDAALALLLLDRLNQL	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSSSSYEQY	1.0000	124197	SPFHPLADNKFAL,FVCNLLLLFVTVYSHLLLV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSSSYEQY	ASSSSYEQF	0.9706	124412	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSSSASYEQY	0.9701	124601	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSSSYEQY	ASSSSAYEQY	0.9816	124604	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSEGQGNQPQH	AISEGQGNQPQH	0.9778	68345	TLIGDCATV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ATSEGQGNQPQH	ATSDGQGNQPQH	0.9711	139625	RQIAPGQTGKIADYNYKL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRPGSYNEQF	ASKPGSYNEQF	0.9793	74122	LPAADLDDF	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQTSGSEQY	ASSQVSGSEQY	0.9712	122167	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGRQETQY	ASSYGRQETQY	0.9742	47793	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSFGRQETQY	ASSFGRKETQY	0.9703	84416	CMTSCCSCLK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAVRYEQY	SATLAVRYEQY	0.9700	145825	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ARSSGGQPQH	ASSSGGQPQH	0.9751	120699	VQPTESIVRFPNITNLCPF,FVDGVPFVV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLRGYNEQF	ASSLKGYNEQF	0.9753	97202	GYQPYRVVVLSF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLRGYNEQF	ASSLRGYNEQF	1.0000	100615	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGRDSYEQY	ASTSGRDSYEQY	0.9830	22014	LPRRSGAAGA,TPRVTGGGAM	nucleoprotein,HCMVUL83	Influenza A virus,Human herpesvirus 5 (Human cytomegalovirus)
+ASSSENTEAF	ASSSDNTEAF	0.9734	29195	ASGNHAAGILTM,HGAGNHAAGILTL	orexin precursor [Homo sapiens],orexin precursor [Homo sapiens]	Homo sapiens (human),Homo sapiens (human)
+ASSSENTEAF	ASSSDNTEAF	0.9734	121210	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSENTEAF	ASSSQNTEAF	0.9774	124677	FVCNLLLLFVTVYSHLLLV,GLEAPFLYLYALVYFLQSINFVRIIMR	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSSENTEAF	ASSEENTEAF	0.9728	168344	YVLDHLIVV	Transcription activator BRLF1	Human herpesvirus 4 (Epstein Barr virus)
+ASSAGDYEQY	ASNAGDYEQY	0.9722	74614	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAGDYEQY	ASSSGDYEQY	0.9793	120590	FLNGSCGSV,FVCNLLLLFVTVYSHLLLV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSAGDYEQY	ASTAGDYEQY	0.9813	136961	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSPTGGIETQY	ASSPTGGLETQY	0.9800	23879	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASSLGSGGETQY	ASSLGAGGETQY	0.9783	93589	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGSGGETQY	ASSLGSGGETQY	1.0000	96494	APKEIIFLEGETL,FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSRGGHEQF	ASSRGGHEQY	0.9892	28104	NLNCCSVPV		
+ASSPLQGAYEQY	ASSPLQGAYEQY	1.0000	111361	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SASSGQETQY	ASSTGQETQY	0.9700	15826	GILGFVFTL	Matrix protein 1	Influenza A virus
+SASSGQETQY	ASSTGQETQY	0.9700	147938	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSGTGGTDTQY	ASSAGTGGTDTQY	0.9824	39305	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSSGTGGTDTQY	ASSGTGGTDTQY	0.9730	170336	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSAQGPETQY	ASSSQGPETQY	0.9800	124458	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSENNEQF	ASSENNEQF	1.0000	78877	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSENNEQF	ASSQNNEQF	0.9767	117827	FLWLLWPVTLACFVLAAV,RQLLFVVEV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSENNEQF	ASAENNEQF	0.9827	147874	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGYTEAF	ASSFGGYTEAF	1.0000	85023	YLNTLTLAV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFGGYTEAF	ASSYGGYTEAF	0.9736	130448	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGGETQY	ASSGGGETQY	0.9704	87544	SNEKQEILGTVSWNL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASGGGETQY	ASGGGETQY	1.0000	146882	DLPIGINITRFQTL,EEHVQIHTI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTGGSYEQY	ASSTGGAYEQY	0.9781	58331	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSTGGSYEQY	ASSTGGAYEQY	0.9781	19651	SSYRRPVGI	RNA-directed RNA polymerase catalytic subunit	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSTGGSYEQY	ASSSGGSYEQY	0.9804	58270	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSTGGSYEQY	ASSAGGSYEQY	0.9712	75128	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGSYEQY	ASSSTGGSYEQY	0.9730	124973	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGSYEQY	ASSVGGSYEQY	0.9706	127523	VLWAHGFEL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGSYEQY	ASSTGGSYEQY	1.0000	129894	NPLLYDANYFLCW	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSAEQETQY	ASSADQETQY	0.9729	77772	FLNGSCGSV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVGAGTYEQY	ASSVGAGSYEQY	0.9777	128404	WICLLQFAY	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRNSNEKLF	AIRNSNEKLF	0.9716	68166	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRDNEKLF	ASERDNEKLF	0.9722	168204	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSSKDNEQF	ASSSQDNEQF	0.9741	124240	FVDGVPFVV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSFTGGSEAF	ASSSFTGGTEAF	0.9807	49047	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSTGGGYEQY	ASSTGGGYEQY	1.0000	49346	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+ASSTGGGYEQY	ASSTGGGYEQY	1.0000	25595	SIINFEKL	ovalbumin	Gallus gallus (chicken)
+ASSTGGGYEQY	ATSTGGGYEQY	0.9870	26979	LLWNGPMAV	non-structural protein NS4b	Yellow fever virus 17D (Yellow fever virus (STRAIN 17D))
+ASSLQGSPEAF	ASSLQGAPEAF	0.9774	44117	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+SASSQGGGEAF	ASSQGGGEAF	0.9756	119350	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASMTGYNEQF	ASITGYNEQF	0.9753	72985	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSKGNQPQH	ASSQGNQPQH	0.9727	117226	VQPTESIVRFPNITNLCPF	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSWGNQPQH	ASTWGNQPQH	0.9768	135242	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSVNYGYT	ASSLNYGYT	0.9761	101608	MGYINVFAFPFTIYSL,FVDGVPFVV	ORF10 protein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSPAGAGELF	ASSPSGAGELF	0.9791	109328	YEDFLEYHDVRVVL	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEDTQY	ASSQDTQY	0.9751	172644	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSFRLDNTGELF	ASSFRLDNTGELF	1.0000	83231	TSNQVAVLY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSSPGEQF	ASSSPGEQY	0.9892	19407	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSSPGEQF	ASSSPGEQY	0.9892	172223	GLCTLVAML	Transcriptional regulator IE63 homolog	Human herpesvirus 4 (Epstein Barr virus)
+ASSSPGEQF	ASSTPGEQF	0.9777	128740	TLVPQEHYV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSMTGLNTEAF	ASSLTGLNTEAF	0.9820	105417	IPIQASLPF	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSMTGLNTEAF	ASSMTGLNTEAF	1.0000	108141	IQYIDIGNY	ORF8 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSMTGLNTEAF	ASSVTGLNTEAF	0.9741	128255	FLPFFSNVTWFHAI	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSELAGEETQY	ASSQLAGEETQY	0.9788	116842	TSNQVAVLY	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRPRGTYEQY	ASRPRGSYEQY	0.9739	76783	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTSGQETQY	ASSTGQETQY	0.9769	15826	GILGFVFTL	Matrix protein 1	Influenza A virus
+ASTSGQETQY	ASSTGQETQY	0.9769	147938	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTSGQETQY	ASTTGQETQY	0.9803	133839	MIELSLIDFYLCFLAFLLFLVLIML	ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLISGNTIY	ASSMGLVSGNTIY	0.9720	108577	VLPFNDGVYFASTEK	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSRLAGSTGELF	ASRLAGSTGELF	0.9706	38811	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+STGAYEQY	LTGAYEQY	0.9797	51466	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+STGAYEQY	ASGAYEQY	0.9767	146148	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASRIGTYEQY	SARVGTYEQY	0.9720	29934	ELAGIGILTV		
+ASSTRGTYGYT	ASSSRGTYGYT	0.9793	123719	KLNDLCFTNVYADSFVIR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSEGEKLF	ASSEGERLF	0.9805	19333	SSLENFRAYV	Polymerase basic protein 2	Influenza A virus (A/Puerto Rico/8/1934(H1N1)) (Influenza A virus (A/PR/8/1934(H1N1)))
+ASSEGEKLF	ASSEGEKLF	1.0000	78941	AYSNNSIAIPTNFTISV	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLINEQF	ASSIGLVNEQF	0.9739	40995	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSLGLINEQF	ASSLGIVNEQF	0.9722	98200	HTTDPSFLGRY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSQTGELF	ASSETGELF	0.9759	79782	KLSYGIATV,GMEVTPSGTWLTY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLAGQGYEQY	ASSLAGQGYEQY	1.0000	88969	VLHSYFTSDYYQLY,VQPTESIVRFPNITNLCPF,MIELSLIDFYLCFLAFLLFLVLIML	ORF3a protein [Severe acute respiratory syndrome coronavirus 2],surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2
+ASSLAGQGYEQY	ASSLSGQGYEQY	0.9781	99068	YTMADLVYAL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSTGGADTQY	ASSVGGADTQY	0.9715	48778	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+ASSTGGADTQY	ASSSGGADTQY	0.9809	120927	KAYNVTQAF,RQLLFVVEV	nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSTGGADTQY	ASSSTGGADTQY	0.9740	124860	AELAKNVSLDNVL,MIELSLIDFYLCFLAFLLFLVLIML	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF7b [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSHTGELF	ASSHTGELF	1.0000	86816	MGYINVFAFPFTIYSL	ORF10 protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSHTGELF	ASTHTGELF	0.9796	135844	FTISVTTEIL,GLEAPFLYLYALVYFLQSINFVRIIMR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASSLFSSGNTIY	ASSLFSSGNTIY	1.0000	908	WLKNKLIPEVKEKHEFLSRL	Genome polyprotein	Coxsackievirus B4 (Coxsackie B4 virus CB4)
+ASSMATGVNTEAF	ASSLATGVNTEAF	0.9831	94259	FPPTSFGPL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLAPRATNEKLF	ASSLAPRATNEKLF	1.0000	11454	NLVPMVATV	HCMVUL83	Human herpesvirus 5 (Human cytomegalovirus)
+ASKVGGRSYEQY	ASSVGGRSYEQY	0.9739	127426	APKEIIFLEGETL,VLHSYFTSDYYQLY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2],ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2
+ASTLDNEQY	ASSLDNEQF	0.9707	94831	VQPTESIVRFPNITNLCPF,FLWLLWPVTLACFVLAAV,APKEIIFLEGETL	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2],orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2,SARS-CoV2,SARS-CoV2

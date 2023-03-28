@@ -1,0 +1,5 @@
+exitcode 0
+user     13.48
+system   0.08
+elapsed  0:13.64
+maxrss   160764

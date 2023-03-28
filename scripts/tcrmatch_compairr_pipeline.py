@@ -6,6 +6,7 @@ import os
 import errno
 import subprocess
 import shutil
+import logging
 
 def build_path(path):
     path = Path(path)
@@ -22,13 +23,17 @@ def check_parsed_params(parsed_args):
     parsed_args.iedb_file = Path(parsed_args.iedb_file)
     parsed_args.output_file = Path(parsed_args.output_file)
     parsed_args.tmp_path = Path(parsed_args.tmp_path)
+    parsed_args.log_file = Path(parsed_args.log_file)
     parsed_args.compairr_path = Path(parsed_args.compairr_path)
     parsed_args.tcrmatch_path = Path(parsed_args.tcrmatch_path)
     parsed_args.pairs_file = parsed_args.tmp_path / "pairs.tsv"
     parsed_args.compairr_log = parsed_args.tmp_path / "compairr_log.txt"
     parsed_args.compairr_out = parsed_args.tmp_path / "compairr_out.txt"
 
+    assert not parsed_args.log_file.is_file(), f"log_file {parsed_args.log_file} already exists, please remove the file or specify a different log_file."
+
     build_path(parsed_args.output_file.parent)
+    build_path(parsed_args.log_file.parent)
     build_path(parsed_args.tmp_path)
 
     assert parsed_args.user_file.is_file(), f"Missing user_file: {parsed_args.user_file}"
@@ -54,13 +59,16 @@ def parse_args(args):
     parser.add_argument("-s", "--threshold", type=float, default=0.97, help="TCRMatch setting: parameter to specify the threshold (default = 0.97)")
     parser.add_argument("-c", "--compairr_path", type=str, default="compairr", help="CompAIRR path (default = compairr)")
     parser.add_argument("-m", "--tcrmatch_path", type=str, default="tcrmatch", help="TCRMatch path (default = tcrmatch)")
-    parser.add_argument("-l", "--tmp_path", type=str, default="./tmp", help="Temporary directory for storing log files and intermediate results (default = ./tmp)")
+    parser.add_argument("-p", "--tmp_path", type=str, default="./tmp", help="Temporary directory for storing log files and intermediate results (default = ./tmp)")
     parser.add_argument("-k", "--keep_intermediate", action="store_true", help="Flag for keeping intermediate results, useful for debugging (default = do not keep intermediate results)")
     parser.add_argument("-z", "--chunk_size", type=int, default=100000, help="Chunk size for processing intermediate results (default = 100000)")
+    parser.add_argument("-l", "--log_file", type=str, default="./log.txt", help="File for logging progress with timestamps (default = ./log.txt)")
 
     return check_parsed_params(parser.parse_args(args))
 
 def create_pairs_file_with_compairr(args):
+    logging.info("STEP: creating pairs file with CompAIRR")
+
     cmd_args = [str(args.compairr_path), str(args.iedb_file), str(args.user_file), "--matrix",
                 "--differences", str(args.differences), "--ignore-counts", "--ignore-genes",
                 "--cdr3", "--pairs", str(args.pairs_file), "--threads", str(args.threads),
@@ -82,6 +90,8 @@ def create_pairs_file_with_compairr(args):
         raise RuntimeError("An error occurred while running CompAIRR: output pairs file is empty.\n"
                            f"See the log file for more information: {args.compairr_log}")
 
+    logging.info("DONE: creating pairs file with CompAIRR")
+
     return args.pairs_file
 
 def export_cdr3(export_cdr3, output_file):
@@ -89,6 +99,8 @@ def export_cdr3(export_cdr3, output_file):
         file.write(f"{export_cdr3}\n")
 
 def make_tcrmatch_input_files(pairs_file, output_folder, chunk_size):
+    logging.info("STEP: constructing TCRMatch input files")
+
     IEDB_COLUMNS = ["trimmed_seq", "original_seq", "receptor_group", "epitopes", "source_organisms", "source_antigens"]
     COLUMN_ORDER = ["cdr3_aa_1", "original_seq_1", "receptor_group_1", "epitopes_1", "source_organisms_1", "source_antigens_1"]
 
@@ -111,7 +123,12 @@ def make_tcrmatch_input_files(pairs_file, output_folder, chunk_size):
                 cdr3_chunk[COLUMN_ORDER].to_csv(f"{output_folder}/prefiltered_IEDB_{id}.tsv", sep="\t", index=False, header=IEDB_COLUMNS)
                 export_cdr3(user_cdr3, f"{output_folder}/user_cdr3_{id}.tsv")
 
+    logging.info("DONE: constructing TCRMatch input files")
+
+
 def run_tcrmatch_on_each_file(tcrmatch_input_path, tcrmatch_path, threshold, output_file_path):
+    logging.info("STEP: running TCRMatch on input files")
+
     TCRMATCH_HEADER = "input_sequence\tmatch_sequence\tscore\treceptor_group\tepitope\tantigen\torganism\t"
 
     with open(output_file_path, "w") as output_file:
@@ -121,11 +138,14 @@ def run_tcrmatch_on_each_file(tcrmatch_input_path, tcrmatch_path, threshold, out
             id = iedb_file.stem.split("_")[-1]
             user_file = tcrmatch_input_path / f"user_cdr3_{id}.tsv"
 
+
             assert user_file.is_file(), f"Found iedb file {iedb_file} but not the matching user cdr3 file {user_file}."
 
             cmd_args = [str(tcrmatch_path), "-i", str(user_file), "-t", "1", "-d", str(iedb_file), "-s", str(threshold)]
 
+            logging.info(f"STEP: TCRMatch call {id}")
             subprocess_result = subprocess.run(cmd_args, capture_output=True, text=True, check=True)
+            logging.info(f"DONE: TCRMatch call {id}")
 
             if subprocess_result.stdout == "":
                 err_str = f":{subprocess_result.stderr}"
@@ -141,7 +161,12 @@ def run_tcrmatch_on_each_file(tcrmatch_input_path, tcrmatch_path, threshold, out
 
             output_file.write(content)
 
+    logging.info("DONE: running TCRMatch on input files")
+
+
 def main(args):
+    logging.basicConfig(filename=args.log_file, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
+
     pairs_file_path = create_pairs_file_with_compairr(args)
 
     tcrmatch_input_path = build_path(args.tmp_path / "tcrmatch_input")

@@ -16,9 +16,9 @@ Several paths must be specified at the beginning of the benchmarking script:
 - tcrmatch_path: path to TCRMatch executable
 - compairr_tcrmatch_path: path to CompAIRR+TCRMatch python script
 
-The current benchmarking pipeline is v6. The results for this pipeline are not done yet (will be added to the git repo once done).
-The benchmarking script will create two output folders: one folder contains all TCRMatch output files,
-the other folder contains the results of the GNU time command and CompAIRR log files.
+The current benchmarking pipeline is v6. The results for this pipeline can be found in the [benchmarking_results](benchmarking_results/benchmarking_v6) folder.
+The benchmarking script will create two output folders: one folder contains all TCRMatch output files ([tcrmatch_outfiles](benchmarking_results/benchmarking_v6/tcrmatch_outfiles)),
+the other folder contains the results of the GNU time command and CompAIRR log files ([time](benchmarking_results/benchmarking_v6/time)).
 The script [plot_benchmarking_results.py](other_scripts/plot_benchmarking_results.py) can subsequently 
 be used to make plots of the time results. Note: for pipeline v6 it is not possible anymore to get the 'breakdown'
 of compairr vs file processing vs TCRMatch running time, as everything is now called from a single python script. 

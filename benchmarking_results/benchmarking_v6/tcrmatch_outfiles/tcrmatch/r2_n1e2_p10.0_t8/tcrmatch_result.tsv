@@ -1,0 +1,16 @@
+input_sequence	match_sequence	score	receptor_group	epitope	antigen	organism	
+ASSPWGFYAEQF	ASSPWGFYAEQF	1.0000	179877	FQPQNGQFI	Nucleoprotein	Lymphocytic choriomeningitis mammarenavirus (Lymphocytic choriomeningitis virus)
+ATRNTWTGVYEQY	ATRNTWTGVYEQY	1.0000	140285	VEAEVQIDRLITGR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLDGWQENYNEQF	ASSLDGWQENYNEQF	1.0000	94294	RQLLFVVEV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSLGLAGGELF	ASSLGLAGGELF	1.0000	98499	STDTGVEHVTFFIYNK	ORF3a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+SVGSSGNYEQY	SVGSSGNYEQY	1.0000	150347	VQELYSPIFLIV	ORF7a protein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFSRNYEQY	ASSFSRNYEQY	1.0000	41880	AVFDRKSDAK	Epstein-Barr nuclear antigen 4	Human herpesvirus 4 (Epstein Barr virus)
+ASSFSRNYEQY	ASSFARNYEQY	0.9769	80305	QLMCQPILLL	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASTPLAYADTQY	ASTPLAYADTQY	1.0000	134722	FLWLLWPVTLACFVLAAV	membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSFFTDATQPQH	ASSFFTDATQPQH	1.0000	85120	YIFFASFYY	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYRSTGNYGYT	ASSYRSSGNYGYT	0.9745	148509	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYRSTGNYGYT	ASSYRSTGNYGYT	1.0000	148514	YAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFT	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSYPGITEAF	ASSYPGITEAF	1.0000	130402	ILGLPTQTV	orf1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+ASSGSNQPQH	ASSGSNQPQH	1.0000	147609	VYSTGSNVFQTR	surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]	SARS-CoV2
+AARGLNTEAF	ASRGLNTEAF	0.9860	38681	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))
+AARGLNTEAF	SARGMNTEAF	0.9701	50359	KLGGALQAK	55 kDa immediate-early protein 1	Human herpesvirus 5 strain AD169 (Human cytomegalovirus (strain AD169))

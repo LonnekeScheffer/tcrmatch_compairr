@@ -8,9 +8,7 @@ pd.set_option('display.max_columns', None)
 
 def parse_args(args):
     parser = argparse.ArgumentParser()
-    # parser.add_argument("--time_folder", default="/Users/lonneke/PycharmProjects/tcrmatch_compairr/benchmarking_tcrmatchtrheads/benchmarking_v5_t1/time")
-    parser.add_argument("--time_folder", default="../benchmarking_results/benchmarking_v6_failed/time/")
-    # parser.add_argument("--time_folder", default="../comparing_pipelines/benchmarking_v1/time/")
+    parser.add_argument("--time_folder", default="../benchmarking_results/benchmarking_v6/time/")
 
     parsed_args = parser.parse_args(args)
     parsed_args.time_folder = Path(parsed_args.time_folder)
@@ -215,7 +213,6 @@ def plot_time_per_percentage(comp_data, tcrm_data, t=None, n="1e5", time_type="s
     add_error(df)
     update_pipeline_name(df)
     update_percentage(df)
-    # update_n_sequences(df)
 
     fig = px.line(df, x="p", y="result_valuemean", color="pipeline",
                   error_y="e_plus", error_y_minus="e_minus", log_y=False,
@@ -278,6 +275,30 @@ def plot_max_rss_benchmarking(comp_data, tcrm_data, p="1.0", facet_col="t"):
 
     fig.show()
 
+def plot_max_rss_per_percentage(comp_data, tcrm_data, t=None, n="1e5", facet_col="t"):
+    df = merge_dfs_for_benchmarking_plot(comp_data, tcrm_data, to_benchmark="maxrss")
+    df = keep_selected(df, t=t, n=n)
+
+    add_error(df)
+    update_pipeline_name(df)
+    update_percentage(df)
+
+    fig = px.line(df, x="p", y="result_valuemean", color="pipeline",
+                  error_y="e_plus", error_y_minus="e_minus", log_y=False,
+                  template="plotly_white", facet_col=facet_col,
+                  color_discrete_map=get_pipeline_color_map(),
+                  labels={"result_valuemean": f"Max RSS (MB)",
+                          "p": "Percentage of IEDB sequences",
+                          "t": "number of threads"})
+
+
+    fig.update_layout(font=dict(size=18),)
+    fig.update_yaxes(matches=None)
+    fig.for_each_yaxis(lambda yaxis: yaxis.update(showticklabels=True))
+
+    fig.show()
+
+
 def breakdown_maxrss_compairr_pipeline(comp_data, p="1.0", t=None, d=None,
                                        facet_col="compairr_setting", facet_row="t"):
     comp_data = keep_selected(comp_data, t=t, p=p, d=d)
@@ -308,13 +329,14 @@ def make_all_plots(args):
     tcrm_data = process_benchmark_folder(args.time_folder / "tcrmatch")
 
     plot_elapsed_time_benchmarking(comp_data, tcrm_data, time_type="minutes")
-
     plot_time_per_percentage(comp_data, tcrm_data, n="1e5", time_type="minutes")
 
-    breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
-    breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)
+    # breakdown times are logged differently now
+    # breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes")
+    # breakdown_elapsed_time_compairr_pipeline(comp_data, time_type="minutes", d="2", facet_col="t", facet_row=None)
 
     plot_max_rss_benchmarking(comp_data, tcrm_data, p="1.0")
+    plot_max_rss_per_percentage(comp_data, tcrm_data, n="1e5")
 
     breakdown_maxrss_compairr_pipeline(comp_data)
 

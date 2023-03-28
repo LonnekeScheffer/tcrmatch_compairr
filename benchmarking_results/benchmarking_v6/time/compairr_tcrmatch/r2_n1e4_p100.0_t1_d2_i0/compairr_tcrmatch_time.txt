@@ -1,0 +1,5 @@
+exitcode 0
+user     50.04
+system   46.91
+elapsed  1:35.31
+maxrss   132976
