@@ -68,13 +68,11 @@ def single_pair_tcrmatch(seq1, seq2, tmp_folder, tcrmatch_path="/storage/lonneke
                                       f"The following arguments were used: {' '.join(cmd_args)}"
 
     return float(content.split("\t")[2])
-def process_pairs_file(pairs_file, tmp_folder):
+def process_pairs_file(pairs_file, tmp_folder, max_pairs_per_distance=1000):
     print("STEP: process pairs file")
 
     df = pd.read_csv(pairs_file, sep="\t",
                      usecols=["cdr3_aa_1", "cdr3_aa_2", "distance"], chunksize=10000)
-
-    max_count = 1000
 
     observed_pairs_of_given_dist = {i: 0 for i in range(1, 6)}
 
@@ -82,7 +80,7 @@ def process_pairs_file(pairs_file, tmp_folder):
 
     for chunk in df:
         for index, row in chunk.iterrows():
-            if observed_pairs_of_given_dist[row["distance"]] < max_count:
+            if observed_pairs_of_given_dist[row["distance"]] < max_pairs_per_distance:
                 row["val"] = single_pair_tcrmatch(row["cdr3_aa_1"], row["cdr3_aa_2"], tmp_folder, tcrmatch_path="/storage/lonnekes/TCRMatch_CompAIRR/TCRMatch/tcrmatch")
                 rows.append(row)
 
