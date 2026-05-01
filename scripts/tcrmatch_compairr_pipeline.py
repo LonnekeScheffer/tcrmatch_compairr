@@ -30,7 +30,7 @@ def check_parsed_params(parsed_args):
     parsed_args.compairr_log = parsed_args.tmp_path / "compairr_log.txt"
     parsed_args.compairr_out = parsed_args.tmp_path / "compairr_out.txt"
 
-    assert not parsed_args.log_file.is_file(), f"log_file {parsed_args.log_file} already exists, please remove the file or specify a different log_file."
+    # assert not parsed_args.log_file.is_file(), f"log_file {parsed_args.log_file} already exists, please remove the file or specify a different log_file."
 
     build_path(parsed_args.output_file.parent)
     build_path(parsed_args.log_file.parent)
@@ -129,7 +129,7 @@ def make_tcrmatch_input_files(pairs_file, output_folder, chunk_size):
 def run_tcrmatch_on_each_file(tcrmatch_input_path, tcrmatch_path, threshold, output_file_path):
     logging.info("STEP: running TCRMatch on input files")
 
-    TCRMATCH_HEADER = "input_sequence\tmatch_sequence\tscore\treceptor_group\tepitope\tantigen\torganism\t"
+    TCRMATCH_HEADER = "trimmed_input_sequence\tmatch_sequence\tscore\treceptor_group\tepitope\tantigen\torganism"
 
     with open(output_file_path, "w") as output_file:
         output_file.write(TCRMATCH_HEADER + "\n")
@@ -166,6 +166,8 @@ def run_tcrmatch_on_each_file(tcrmatch_input_path, tcrmatch_path, threshold, out
 
 def main(args):
     logging.basicConfig(filename=args.log_file, level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s')
+
+    logging.info("New run started")
 
     pairs_file_path = create_pairs_file_with_compairr(args)
 
